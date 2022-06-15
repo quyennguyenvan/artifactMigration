@@ -1,0 +1,6 @@
+az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-group\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+                        
+az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-hosted\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+                        
+az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+                        

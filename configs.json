@@ -1,0 +1,17 @@
+{
+    "nexus": {
+        "url": "http://localhost:8081",
+        "username": "admin",
+        "password": "2uyen@xxxxgit",
+        "notAllowedContentTypes": [
+            "index.json"
+        ]
+    },
+    "azure": {
+        "orgURL": "https://dev.azure.com/QuyenNV9/",
+        "project": "artifactMigration"
+    },
+    "downloadHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\download.txt",
+    "downloadDict": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads",
+    "artifactUpload": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\execArtifactUpload.bat"
+}

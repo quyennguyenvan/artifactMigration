@@ -1,0 +1,12 @@
+requirement:
+1. azure devops cli ( can install by tool)
+2. python3
+3. PAT (personal access token for role R&W for package)
+change config: configs.json
+
+Run this fist:
+pip3 install -r requirement.txt
+
+
+execution: python3.8.exe .\main.py ( windows version)
+provide the PAT for console request

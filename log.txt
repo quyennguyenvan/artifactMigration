@@ -1,0 +1,1488 @@
+2022-06-15 18:40:02,908 3996 INFO __main__ Logger init ... OK
+2022-06-15 18:57:27,799 11488 INFO __main__ Logger init ... OK
+2022-06-15 18:58:16,875 30904 INFO __main__ Logger init ... OK
+2022-06-15 18:58:37,316 28068 INFO __main__ Logger init ... OK
+2022-06-15 18:58:56,239 21264 INFO __main__ Logger init ... OK
+2022-06-15 19:00:09,556 32484 INFO __main__ Logger init ... OK
+2022-06-15 19:00:09,557 32484 INFO root loading the config for nexus type
+2022-06-15 19:00:09,557 32484 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:00:34,177 30176 INFO __main__ Logger init ... OK
+2022-06-15 19:00:34,177 30176 INFO root loading the config for nexus type
+2022-06-15 19:00:34,178 30176 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:02:18,048 27212 INFO __main__ Logger init ... OK
+2022-06-15 19:02:18,049 27212 INFO root loading the config for nexus type
+2022-06-15 19:02:18,049 27212 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:02:18,069 27212 INFO root calling ok!
+2022-06-15 19:06:18,637 6560 INFO __main__ Logger init ... OK
+2022-06-15 19:06:18,638 6560 INFO root loading the config for nexus type
+2022-06-15 19:06:18,638 6560 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:06:18,654 6560 INFO root calling ok!
+2022-06-15 19:07:18,076 27880 INFO __main__ Logger init ... OK
+2022-06-15 19:07:18,076 27880 INFO root loading the config for nexus type
+2022-06-15 19:07:18,077 27880 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:07:36,969 5096 INFO __main__ Logger init ... OK
+2022-06-15 19:07:36,970 5096 INFO root loading the config for nexus type
+2022-06-15 19:07:36,970 5096 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:07:36,985 5096 INFO root calling ok!
+2022-06-15 19:39:40,891 13764 INFO __main__ Logger init ... OK
+2022-06-15 19:39:40,891 13764 INFO root loading the config for nexus type
+2022-06-15 19:40:24,033 6808 INFO __main__ Logger init ... OK
+2022-06-15 19:40:24,033 6808 INFO root loading the config for nexus type
+2022-06-15 19:41:13,285 5732 INFO __main__ Logger init ... OK
+2022-06-15 19:41:13,285 5732 INFO root loading the config for nexus type
+2022-06-15 19:41:13,311 5732 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:41:13,328 5732 INFO root calling ok!
+2022-06-15 19:43:26,195 6036 INFO __main__ Logger init ... OK
+2022-06-15 19:43:26,199 6036 INFO root loading the config for nexus type
+2022-06-15 19:43:26,226 6036 INFO root crash app. quit
+2022-06-15 19:44:48,919 14772 INFO __main__ Logger init ... OK
+2022-06-15 19:44:48,919 14772 INFO root loading the config for nexus type
+2022-06-15 19:44:48,945 14772 INFO root crash app. quit
+2022-06-15 19:45:02,882 9892 INFO __main__ Logger init ... OK
+2022-06-15 19:45:02,883 9892 INFO root loading the config for nexus type
+2022-06-15 19:45:02,905 9892 INFO root crash app. quit
+2022-06-15 19:46:12,024 27892 INFO __main__ Logger init ... OK
+2022-06-15 19:46:12,024 27892 INFO root loading the config for nexus type
+2022-06-15 19:46:12,045 27892 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:46:12,059 27892 ERROR root calling server error
+2022-06-15 19:46:12,059 27892 INFO root crash app. quit
+2022-06-15 19:47:56,050 29440 INFO __main__ Logger init ... OK
+2022-06-15 19:47:56,050 29440 INFO root loading the config for nexus type
+2022-06-15 19:47:56,070 29440 INFO root credential valid
+2022-06-15 19:47:56,071 29440 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:47:56,083 29440 ERROR root calling server error
+2022-06-15 19:47:56,083 29440 INFO root crash app. quit
+2022-06-15 19:48:33,542 33140 INFO __main__ Logger init ... OK
+2022-06-15 19:48:33,543 33140 INFO root loading the config for nexus type
+2022-06-15 19:48:33,575 33140 INFO root credential valid
+2022-06-15 19:48:33,576 33140 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:48:33,592 33140 INFO root calling ok!
+2022-06-15 19:48:33,594 33140 INFO root crash app. quit
+2022-06-15 19:48:54,545 32900 INFO __main__ Logger init ... OK
+2022-06-15 19:48:54,545 32900 INFO root loading the config for nexus type
+2022-06-15 19:48:54,581 32900 INFO root credential valid
+2022-06-15 19:48:54,581 32900 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:48:54,595 32900 INFO root calling ok!
+2022-06-15 19:51:41,903 31836 INFO __main__ Logger init ... OK
+2022-06-15 19:51:41,903 31836 INFO root loading the config for nexus type
+2022-06-15 19:51:41,924 31836 INFO root credential valid
+2022-06-15 19:51:41,924 31836 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:51:41,935 31836 INFO root calling ok!
+2022-06-15 19:53:34,810 30272 INFO __main__ Logger init ... OK
+2022-06-15 19:53:34,810 30272 INFO root loading the config for nexus type
+2022-06-15 19:53:34,832 30272 INFO root credential valid
+2022-06-15 19:53:34,832 30272 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 19:53:34,846 30272 INFO root calling ok!
+2022-06-15 20:01:27,423 11088 INFO __main__ Logger init ... OK
+2022-06-15 20:01:27,424 11088 INFO root loading the config for nexus type
+2022-06-15 20:01:27,447 11088 INFO root credential valid
+2022-06-15 20:01:27,448 11088 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:01:27,460 11088 INFO root calling ok!
+2022-06-15 20:02:17,534 32752 INFO __main__ Logger init ... OK
+2022-06-15 20:02:17,534 32752 INFO root loading the config for nexus type
+2022-06-15 20:02:17,554 32752 INFO root credential valid
+2022-06-15 20:02:17,554 32752 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:02:17,567 32752 INFO root calling ok!
+2022-06-15 20:04:06,938 25092 INFO __main__ Logger init ... OK
+2022-06-15 20:04:06,938 25092 INFO root loading the config for nexus type
+2022-06-15 20:04:06,960 25092 INFO root credential valid
+2022-06-15 20:04:06,960 25092 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:04:06,972 25092 INFO root calling ok!
+2022-06-15 20:04:06,972 25092 INFO root collection with <built-in method count of list object at 0x0000014F0C826F80>
+2022-06-15 20:04:25,132 29568 INFO __main__ Logger init ... OK
+2022-06-15 20:04:25,133 29568 INFO root loading the config for nexus type
+2022-06-15 20:04:25,156 29568 INFO root credential valid
+2022-06-15 20:04:25,157 29568 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:04:25,169 29568 INFO root calling ok!
+2022-06-15 20:05:15,203 13588 INFO __main__ Logger init ... OK
+2022-06-15 20:05:15,203 13588 INFO root loading the config for nexus type
+2022-06-15 20:05:15,224 13588 INFO root credential valid
+2022-06-15 20:05:15,224 13588 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:05:15,236 13588 INFO root calling ok!
+2022-06-15 20:05:15,236 13588 INFO root collection with 8
+2022-06-15 20:10:52,353 34600 INFO __main__ Logger init ... OK
+2022-06-15 20:10:52,353 34600 INFO root loading the config for nexus type
+2022-06-15 20:10:52,375 34600 INFO root credential valid
+2022-06-15 20:10:52,375 34600 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:10:52,386 34600 INFO root calling ok!
+2022-06-15 20:10:52,387 34600 INFO root collection with 8 repositories
+2022-06-15 20:11:07,382 32204 INFO __main__ Logger init ... OK
+2022-06-15 20:11:07,382 32204 INFO root loading the config for nexus type
+2022-06-15 20:11:07,408 32204 INFO root credential valid
+2022-06-15 20:11:07,408 32204 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:11:07,420 32204 INFO root calling ok!
+2022-06-15 20:11:07,420 32204 INFO root collection with 8 repositories
+2022-06-15 20:16:35,579 31648 INFO __main__ Logger init ... OK
+2022-06-15 20:16:35,580 31648 INFO root loading the config for nexus type
+2022-06-15 20:16:35,600 31648 INFO root credential valid
+2022-06-15 20:16:35,601 31648 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:16:35,612 31648 INFO root calling ok!
+2022-06-15 20:16:35,612 31648 INFO root collection with 8 repositories
+2022-06-15 20:16:49,754 7784 INFO __main__ Logger init ... OK
+2022-06-15 20:16:49,754 7784 INFO root loading the config for nexus type
+2022-06-15 20:16:49,775 7784 INFO root credential valid
+2022-06-15 20:16:49,775 7784 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:16:49,786 7784 INFO root calling ok!
+2022-06-15 20:16:49,787 7784 INFO root collection with 8 repositories
+2022-06-15 20:18:26,751 29432 INFO __main__ Logger init ... OK
+2022-06-15 20:18:26,752 29432 INFO root loading the config for nexus type
+2022-06-15 20:18:26,773 29432 INFO root credential valid
+2022-06-15 20:18:26,773 29432 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:18:26,783 29432 INFO root calling ok!
+2022-06-15 20:18:26,784 29432 INFO root collection with 8 repositories
+2022-06-15 20:19:22,103 24284 INFO __main__ Logger init ... OK
+2022-06-15 20:19:22,104 24284 INFO root loading the config for nexus type
+2022-06-15 20:19:22,123 24284 INFO root credential valid
+2022-06-15 20:19:22,123 24284 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:19:22,134 24284 INFO root calling ok!
+2022-06-15 20:19:22,134 24284 INFO root collection with 8 repositories
+2022-06-15 20:20:42,227 9348 INFO __main__ Logger init ... OK
+2022-06-15 20:20:42,227 9348 INFO root loading the config for nexus type
+2022-06-15 20:20:42,248 9348 INFO root credential valid
+2022-06-15 20:20:42,248 9348 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:20:42,261 9348 INFO root calling ok!
+2022-06-15 20:20:42,261 9348 INFO root collection with 8 repositories
+2022-06-15 20:21:02,780 22804 INFO __main__ Logger init ... OK
+2022-06-15 20:21:02,780 22804 INFO root loading the config for nexus type
+2022-06-15 20:21:02,804 22804 INFO root credential valid
+2022-06-15 20:21:02,804 22804 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:21:02,818 22804 INFO root calling ok!
+2022-06-15 20:21:02,818 22804 INFO root collection with 8 repositories
+2022-06-15 20:21:58,288 33932 INFO __main__ Logger init ... OK
+2022-06-15 20:21:58,288 33932 INFO root loading the config for nexus type
+2022-06-15 20:21:58,310 33932 INFO root credential valid
+2022-06-15 20:21:58,310 33932 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:21:58,322 33932 INFO root calling ok!
+2022-06-15 20:21:58,322 33932 INFO root collection with 8 repositories
+2022-06-15 20:22:16,816 31692 INFO __main__ Logger init ... OK
+2022-06-15 20:22:16,817 31692 INFO root loading the config for nexus type
+2022-06-15 20:22:16,923 31692 INFO root credential valid
+2022-06-15 20:22:16,923 31692 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:22:16,944 31692 INFO root calling ok!
+2022-06-15 20:22:16,944 31692 INFO root collection with 8 repositories
+2022-06-15 20:23:21,383 28632 INFO __main__ Logger init ... OK
+2022-06-15 20:23:21,383 28632 INFO root loading the config for nexus type
+2022-06-15 20:23:21,402 28632 INFO root credential valid
+2022-06-15 20:23:21,402 28632 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:23:21,414 28632 INFO root calling ok!
+2022-06-15 20:23:21,414 28632 INFO root collection with 8 repositories
+2022-06-15 20:26:21,769 31436 INFO __main__ Logger init ... OK
+2022-06-15 20:26:21,770 31436 INFO root loading the config for nexus type
+2022-06-15 20:26:21,790 31436 INFO root credential valid
+2022-06-15 20:26:21,790 31436 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:26:21,801 31436 INFO root calling ok!
+2022-06-15 20:26:21,802 31436 INFO root collection with 8 repositories
+2022-06-15 20:27:04,588 32732 INFO __main__ Logger init ... OK
+2022-06-15 20:27:04,588 32732 INFO root loading the config for nexus type
+2022-06-15 20:27:04,606 32732 INFO root credential valid
+2022-06-15 20:27:04,607 32732 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:27:04,621 32732 INFO root calling ok!
+2022-06-15 20:27:04,621 32732 INFO root collection with 8 repositories
+2022-06-15 20:28:01,857 33960 INFO __main__ Logger init ... OK
+2022-06-15 20:28:01,857 33960 INFO root loading the config for nexus type
+2022-06-15 20:28:01,876 33960 INFO root credential valid
+2022-06-15 20:28:01,876 33960 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:28:01,888 33960 INFO root calling ok!
+2022-06-15 20:28:01,888 33960 INFO root collection with 8 repositories
+2022-06-15 20:29:24,160 8612 INFO __main__ Logger init ... OK
+2022-06-15 20:29:24,160 8612 INFO root loading the config for nexus type
+2022-06-15 20:29:24,181 8612 INFO root credential valid
+2022-06-15 20:29:24,181 8612 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:29:24,192 8612 INFO root calling ok!
+2022-06-15 20:29:24,192 8612 INFO root collection with 8 repositories
+2022-06-15 20:32:09,479 17452 INFO __main__ Logger init ... OK
+2022-06-15 20:32:09,480 17452 INFO root loading the config for nexus type
+2022-06-15 20:32:09,499 17452 INFO root credential valid
+2022-06-15 20:32:09,499 17452 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:32:09,509 17452 INFO root calling ok!
+2022-06-15 20:32:09,509 17452 INFO root collection with 8 repositories
+2022-06-15 20:33:01,758 32452 INFO __main__ Logger init ... OK
+2022-06-15 20:33:01,758 32452 INFO root loading the config for nexus type
+2022-06-15 20:33:01,779 32452 INFO root credential valid
+2022-06-15 20:33:01,779 32452 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:33:01,791 32452 INFO root calling ok!
+2022-06-15 20:33:01,791 32452 INFO root collection with 8 repositories
+2022-06-15 20:33:50,253 26504 INFO __main__ Logger init ... OK
+2022-06-15 20:33:50,253 26504 INFO root loading the config for nexus type
+2022-06-15 20:33:50,271 26504 INFO root credential valid
+2022-06-15 20:33:50,272 26504 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:33:50,283 26504 INFO root calling ok!
+2022-06-15 20:33:50,283 26504 INFO root collection with 8 repositories
+2022-06-15 20:34:15,671 33616 INFO __main__ Logger init ... OK
+2022-06-15 20:34:15,672 33616 INFO root loading the config for nexus type
+2022-06-15 20:34:15,693 33616 INFO root credential valid
+2022-06-15 20:34:15,693 33616 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:34:15,705 33616 INFO root calling ok!
+2022-06-15 20:34:15,705 33616 INFO root collection with 8 repositories
+2022-06-15 20:34:25,059 20604 INFO __main__ Logger init ... OK
+2022-06-15 20:34:25,059 20604 INFO root loading the config for nexus type
+2022-06-15 20:34:25,078 20604 INFO root credential valid
+2022-06-15 20:34:25,078 20604 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:34:25,089 20604 INFO root calling ok!
+2022-06-15 20:34:25,089 20604 INFO root collection with 8 repositories
+2022-06-15 20:34:32,440 31624 INFO __main__ Logger init ... OK
+2022-06-15 20:34:32,441 31624 INFO root loading the config for nexus type
+2022-06-15 20:34:32,460 31624 INFO root credential valid
+2022-06-15 20:34:32,461 31624 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:34:32,473 31624 INFO root calling ok!
+2022-06-15 20:34:32,474 31624 INFO root collection with 8 repositories
+2022-06-15 20:34:43,394 32124 INFO __main__ Logger init ... OK
+2022-06-15 20:34:43,395 32124 INFO root loading the config for nexus type
+2022-06-15 20:34:43,414 32124 INFO root credential valid
+2022-06-15 20:34:43,415 32124 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:34:43,427 32124 INFO root calling ok!
+2022-06-15 20:34:43,428 32124 INFO root collection with 8 repositories
+2022-06-15 20:36:18,415 25332 INFO __main__ Logger init ... OK
+2022-06-15 20:36:18,415 25332 INFO root loading the config for nexus type
+2022-06-15 20:36:18,436 25332 INFO root credential valid
+2022-06-15 20:36:18,436 25332 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:36:18,449 25332 INFO root calling ok!
+2022-06-15 20:36:18,450 25332 INFO root collection with 8 repositories
+2022-06-15 20:37:25,947 25940 INFO __main__ Logger init ... OK
+2022-06-15 20:37:25,948 25940 INFO root loading the config for nexus type
+2022-06-15 20:37:25,967 25940 INFO root credential valid
+2022-06-15 20:37:25,967 25940 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:37:25,977 25940 INFO root calling ok!
+2022-06-15 20:37:25,978 25940 INFO root collection with 8 repositories
+2022-06-15 20:41:10,726 12344 INFO __main__ Logger init ... OK
+2022-06-15 20:41:10,727 12344 INFO root loading the config for nexus type
+2022-06-15 20:41:10,750 12344 INFO root credential valid
+2022-06-15 20:41:10,750 12344 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:41:10,762 12344 INFO root calling ok!
+2022-06-15 20:41:10,762 12344 INFO root collection with 8 repositories
+2022-06-15 20:42:00,512 14840 INFO __main__ Logger init ... OK
+2022-06-15 20:42:00,513 14840 INFO root loading the config for nexus type
+2022-06-15 20:42:00,537 14840 INFO root credential valid
+2022-06-15 20:42:00,537 14840 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:42:00,550 14840 INFO root calling ok!
+2022-06-15 20:42:00,550 14840 INFO root collection with 8 repositories
+2022-06-15 20:42:07,714 11076 INFO __main__ Logger init ... OK
+2022-06-15 20:42:07,714 11076 INFO root loading the config for nexus type
+2022-06-15 20:42:07,734 11076 INFO root credential valid
+2022-06-15 20:42:07,734 11076 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:42:07,746 11076 INFO root calling ok!
+2022-06-15 20:42:07,746 11076 INFO root collection with 8 repositories
+2022-06-15 20:42:20,883 31568 INFO __main__ Logger init ... OK
+2022-06-15 20:42:20,885 31568 INFO root loading the config for nexus type
+2022-06-15 20:42:20,907 31568 INFO root credential valid
+2022-06-15 20:42:20,908 31568 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:42:20,922 31568 INFO root calling ok!
+2022-06-15 20:42:20,922 31568 INFO root collection with 8 repositories
+2022-06-15 20:42:48,381 31472 INFO __main__ Logger init ... OK
+2022-06-15 20:42:48,382 31472 INFO root loading the config for nexus type
+2022-06-15 20:42:48,409 31472 INFO root credential valid
+2022-06-15 20:42:48,409 31472 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:42:48,424 31472 INFO root calling ok!
+2022-06-15 20:42:48,424 31472 INFO root collection with 8 repositories
+2022-06-15 20:43:37,281 27944 INFO __main__ Logger init ... OK
+2022-06-15 20:43:37,281 27944 INFO root loading the config for nexus type
+2022-06-15 20:43:37,303 27944 INFO root credential valid
+2022-06-15 20:43:37,303 27944 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:43:37,315 27944 INFO root calling ok!
+2022-06-15 20:43:37,315 27944 INFO root collection with 8 repositories
+2022-06-15 20:44:20,410 31880 INFO __main__ Logger init ... OK
+2022-06-15 20:44:20,411 31880 INFO root loading the config for nexus type
+2022-06-15 20:44:20,435 31880 INFO root credential valid
+2022-06-15 20:44:20,435 31880 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:44:20,454 31880 INFO root calling ok!
+2022-06-15 20:44:20,454 31880 INFO root collection with 8 repositories
+2022-06-15 20:45:33,653 24968 INFO __main__ Logger init ... OK
+2022-06-15 20:45:33,654 24968 INFO root loading the config for nexus type
+2022-06-15 20:45:33,673 24968 INFO root credential valid
+2022-06-15 20:45:33,673 24968 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:45:33,683 24968 INFO root calling ok!
+2022-06-15 20:45:33,683 24968 INFO root collection with 8 repositories
+2022-06-15 20:45:42,564 34204 INFO __main__ Logger init ... OK
+2022-06-15 20:45:42,565 34204 INFO root loading the config for nexus type
+2022-06-15 20:45:42,584 34204 INFO root credential valid
+2022-06-15 20:45:42,584 34204 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:45:42,594 34204 INFO root calling ok!
+2022-06-15 20:45:42,595 34204 INFO root collection with 8 repositories
+2022-06-15 20:46:42,559 11600 INFO __main__ Logger init ... OK
+2022-06-15 20:46:42,559 11600 INFO root loading the config for nexus type
+2022-06-15 20:46:42,578 11600 INFO root credential valid
+2022-06-15 20:46:42,579 11600 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:46:42,590 11600 INFO root calling ok!
+2022-06-15 20:46:42,590 11600 INFO root collection with 8 repositories
+2022-06-15 20:47:19,315 32368 INFO __main__ Logger init ... OK
+2022-06-15 20:47:19,315 32368 INFO root loading the config for nexus type
+2022-06-15 20:47:19,335 32368 INFO root credential valid
+2022-06-15 20:47:19,335 32368 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:47:19,346 32368 INFO root calling ok!
+2022-06-15 20:47:19,346 32368 INFO root collection with 8 repositories
+2022-06-15 20:47:51,151 31716 INFO __main__ Logger init ... OK
+2022-06-15 20:47:51,152 31716 INFO root loading the config for nexus type
+2022-06-15 20:47:51,179 31716 INFO root credential valid
+2022-06-15 20:47:51,179 31716 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:47:51,194 31716 INFO root calling ok!
+2022-06-15 20:47:51,194 31716 INFO root collection with 8 repositories
+2022-06-15 20:50:52,999 33152 INFO __main__ Logger init ... OK
+2022-06-15 20:50:52,999 33152 INFO root loading the config for nexus type
+2022-06-15 20:50:53,019 33152 INFO root credential valid
+2022-06-15 20:50:53,019 33152 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:50:53,029 33152 INFO root calling ok!
+2022-06-15 20:50:53,029 33152 INFO root collection with 8 repositories
+2022-06-15 20:51:02,441 12728 INFO __main__ Logger init ... OK
+2022-06-15 20:51:02,441 12728 INFO root loading the config for nexus type
+2022-06-15 20:51:02,461 12728 INFO root credential valid
+2022-06-15 20:51:02,461 12728 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:51:02,473 12728 INFO root calling ok!
+2022-06-15 20:51:02,473 12728 INFO root collection with 8 repositories
+2022-06-15 20:51:42,043 29464 INFO __main__ Logger init ... OK
+2022-06-15 20:51:42,043 29464 INFO root loading the config for nexus type
+2022-06-15 20:51:42,062 29464 INFO root credential valid
+2022-06-15 20:51:42,063 29464 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:51:42,073 29464 INFO root calling ok!
+2022-06-15 20:51:42,073 29464 INFO root collection with 8 repositories
+2022-06-15 20:52:25,254 33312 INFO __main__ Logger init ... OK
+2022-06-15 20:52:25,254 33312 INFO root loading the config for nexus type
+2022-06-15 20:52:25,275 33312 INFO root credential valid
+2022-06-15 20:52:25,275 33312 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:52:25,286 33312 INFO root calling ok!
+2022-06-15 20:52:25,287 33312 INFO root collection with 8 repositories
+2022-06-15 20:52:47,499 28620 INFO __main__ Logger init ... OK
+2022-06-15 20:52:47,500 28620 INFO root loading the config for nexus type
+2022-06-15 20:52:47,520 28620 INFO root credential valid
+2022-06-15 20:52:47,520 28620 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:52:47,531 28620 INFO root calling ok!
+2022-06-15 20:52:47,531 28620 INFO root collection with 8 repositories
+2022-06-15 20:53:11,795 32584 INFO __main__ Logger init ... OK
+2022-06-15 20:53:11,796 32584 INFO root loading the config for nexus type
+2022-06-15 20:53:11,815 32584 INFO root credential valid
+2022-06-15 20:53:11,815 32584 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:53:11,825 32584 INFO root calling ok!
+2022-06-15 20:53:11,825 32584 INFO root collection with 8 repositories
+2022-06-15 20:53:21,713 32252 INFO __main__ Logger init ... OK
+2022-06-15 20:53:21,714 32252 INFO root loading the config for nexus type
+2022-06-15 20:53:21,733 32252 INFO root credential valid
+2022-06-15 20:53:21,733 32252 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:53:21,744 32252 INFO root calling ok!
+2022-06-15 20:53:21,745 32252 INFO root collection with 8 repositories
+2022-06-15 20:53:36,318 10836 INFO __main__ Logger init ... OK
+2022-06-15 20:53:36,318 10836 INFO root loading the config for nexus type
+2022-06-15 20:53:36,338 10836 INFO root credential valid
+2022-06-15 20:53:36,338 10836 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:53:36,349 10836 INFO root calling ok!
+2022-06-15 20:53:36,349 10836 INFO root collection with 8 repositories
+2022-06-15 20:55:18,982 20868 INFO __main__ Logger init ... OK
+2022-06-15 20:55:18,982 20868 INFO root loading the config for nexus type
+2022-06-15 20:55:19,003 20868 INFO root credential valid
+2022-06-15 20:55:19,003 20868 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:55:19,014 20868 INFO root calling ok!
+2022-06-15 20:55:19,014 20868 INFO root collection with 8 repositories
+2022-06-15 20:55:19,031 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 20:55:19,049 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 20:55:19,065 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 20:55:19,084 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 20:55:19,105 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 20:55:19,126 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 20:55:19,146 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 20:55:19,170 20868 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 20:57:57,923 10348 INFO __main__ Logger init ... OK
+2022-06-15 20:57:57,923 10348 INFO root loading the config for nexus type
+2022-06-15 20:57:57,942 10348 INFO root credential valid
+2022-06-15 20:57:57,942 10348 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:57:57,954 10348 INFO root calling ok!
+2022-06-15 20:57:57,954 10348 INFO root collection with 8 repositories
+2022-06-15 20:57:57,973 10348 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 20:58:32,467 29216 INFO __main__ Logger init ... OK
+2022-06-15 20:58:32,467 29216 INFO root loading the config for nexus type
+2022-06-15 20:58:32,485 29216 INFO root credential valid
+2022-06-15 20:58:32,485 29216 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:58:32,496 29216 INFO root calling ok!
+2022-06-15 20:58:32,496 29216 INFO root collection with 8 repositories
+2022-06-15 20:58:32,513 29216 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 20:58:54,900 13232 INFO __main__ Logger init ... OK
+2022-06-15 20:58:54,900 13232 INFO root loading the config for nexus type
+2022-06-15 20:58:54,920 13232 INFO root credential valid
+2022-06-15 20:58:54,920 13232 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:58:54,931 13232 INFO root calling ok!
+2022-06-15 20:58:54,931 13232 INFO root collection with 8 repositories
+2022-06-15 20:58:54,946 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 20:58:54,960 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 20:58:54,960 13232 INFO root repo maven-snapshots dont have any items
+2022-06-15 20:58:54,974 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 20:58:54,974 13232 INFO root repo maven-central dont have any items
+2022-06-15 20:58:54,988 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 20:58:55,004 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 20:58:55,004 13232 INFO root repo maven-releases dont have any items
+2022-06-15 20:58:55,019 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 20:58:55,034 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 20:58:55,034 13232 INFO root repo maven-public dont have any items
+2022-06-15 20:58:55,049 13232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 20:59:24,828 28552 INFO __main__ Logger init ... OK
+2022-06-15 20:59:24,829 28552 INFO root loading the config for nexus type
+2022-06-15 20:59:24,849 28552 INFO root credential valid
+2022-06-15 20:59:24,849 28552 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 20:59:24,866 28552 INFO root calling ok!
+2022-06-15 20:59:24,866 28552 INFO root collection with 8 repositories
+2022-06-15 20:59:24,884 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 20:59:24,900 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 20:59:24,900 28552 INFO root repo maven-snapshots dont have any items
+2022-06-15 20:59:24,912 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 20:59:24,912 28552 INFO root repo maven-central dont have any items
+2022-06-15 20:59:24,925 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 20:59:24,941 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 20:59:24,941 28552 INFO root repo maven-releases dont have any items
+2022-06-15 20:59:24,955 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 20:59:24,971 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 20:59:24,971 28552 INFO root repo maven-public dont have any items
+2022-06-15 20:59:24,990 28552 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:08:38,247 28928 INFO __main__ Logger init ... OK
+2022-06-15 21:08:38,247 28928 INFO root loading the config for nexus type
+2022-06-15 21:08:38,265 28928 INFO root credential valid
+2022-06-15 21:08:38,265 28928 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:08:38,276 28928 INFO root calling ok!
+2022-06-15 21:08:38,276 28928 INFO root collection with 8 repositories
+2022-06-15 21:08:38,296 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:08:38,318 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:08:38,319 28928 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:08:38,334 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:08:38,334 28928 INFO root repo maven-central dont have any items
+2022-06-15 21:08:38,349 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:08:38,363 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:08:38,364 28928 INFO root repo maven-releases dont have any items
+2022-06-15 21:08:38,381 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:08:38,396 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:08:38,396 28928 INFO root repo maven-public dont have any items
+2022-06-15 21:08:38,415 28928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:09:57,693 29308 INFO __main__ Logger init ... OK
+2022-06-15 21:09:57,694 29308 INFO root loading the config for nexus type
+2022-06-15 21:09:57,714 29308 INFO root credential valid
+2022-06-15 21:09:57,714 29308 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:09:57,726 29308 INFO root calling ok!
+2022-06-15 21:09:57,726 29308 INFO root collection with 8 repositories
+2022-06-15 21:09:57,742 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:09:57,753 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:09:57,753 29308 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:09:57,767 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:09:57,767 29308 INFO root repo maven-central dont have any items
+2022-06-15 21:09:57,781 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:09:57,795 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:09:57,796 29308 INFO root repo maven-releases dont have any items
+2022-06-15 21:09:57,810 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:09:57,829 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:09:57,829 29308 INFO root repo maven-public dont have any items
+2022-06-15 21:09:57,843 29308 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:10:21,247 26884 INFO __main__ Logger init ... OK
+2022-06-15 21:10:21,247 26884 INFO root loading the config for nexus type
+2022-06-15 21:10:21,268 26884 INFO root credential valid
+2022-06-15 21:10:21,268 26884 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:10:21,279 26884 INFO root calling ok!
+2022-06-15 21:10:21,279 26884 INFO root collection with 8 repositories
+2022-06-15 21:10:21,295 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:10:21,311 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:10:21,312 26884 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:10:21,326 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:10:21,326 26884 INFO root repo maven-central dont have any items
+2022-06-15 21:10:21,345 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:10:21,359 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:10:21,359 26884 INFO root repo maven-releases dont have any items
+2022-06-15 21:10:21,375 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:10:21,394 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:10:21,394 26884 INFO root repo maven-public dont have any items
+2022-06-15 21:10:21,411 26884 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:10:56,694 12992 INFO __main__ Logger init ... OK
+2022-06-15 21:10:56,695 12992 INFO root loading the config for nexus type
+2022-06-15 21:10:56,715 12992 INFO root credential valid
+2022-06-15 21:10:56,716 12992 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:10:56,728 12992 INFO root calling ok!
+2022-06-15 21:10:56,729 12992 INFO root collection with 8 repositories
+2022-06-15 21:10:56,745 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:10:56,761 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:10:56,761 12992 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:10:56,776 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:10:56,776 12992 INFO root repo maven-central dont have any items
+2022-06-15 21:10:56,794 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:10:56,810 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:10:56,810 12992 INFO root repo maven-releases dont have any items
+2022-06-15 21:10:56,826 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:10:56,846 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:10:56,846 12992 INFO root repo maven-public dont have any items
+2022-06-15 21:10:56,865 12992 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:11:11,831 8016 INFO __main__ Logger init ... OK
+2022-06-15 21:11:11,831 8016 INFO root loading the config for nexus type
+2022-06-15 21:11:11,853 8016 INFO root credential valid
+2022-06-15 21:11:11,853 8016 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:11:11,863 8016 INFO root calling ok!
+2022-06-15 21:11:11,863 8016 INFO root collection with 8 repositories
+2022-06-15 21:11:11,877 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:11:11,892 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:11:11,893 8016 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:11:11,905 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:11:11,905 8016 INFO root repo maven-central dont have any items
+2022-06-15 21:11:11,918 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:11:11,932 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:11:11,932 8016 INFO root repo maven-releases dont have any items
+2022-06-15 21:11:11,950 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:11:11,964 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:11:11,965 8016 INFO root repo maven-public dont have any items
+2022-06-15 21:11:11,979 8016 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:12:21,826 33400 INFO __main__ Logger init ... OK
+2022-06-15 21:12:21,826 33400 INFO root loading the config for nexus type
+2022-06-15 21:12:21,846 33400 INFO root credential valid
+2022-06-15 21:12:21,846 33400 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:12:21,857 33400 INFO root calling ok!
+2022-06-15 21:12:21,857 33400 INFO root collection with 8 repositories
+2022-06-15 21:12:21,872 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:12:21,885 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:12:21,886 33400 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:12:21,898 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:12:21,898 33400 INFO root repo maven-central dont have any items
+2022-06-15 21:12:21,911 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:12:21,925 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:12:21,926 33400 INFO root repo maven-releases dont have any items
+2022-06-15 21:12:21,942 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:12:21,959 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:12:21,959 33400 INFO root repo maven-public dont have any items
+2022-06-15 21:12:21,973 33400 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:16:40,818 12444 INFO __main__ Logger init ... OK
+2022-06-15 21:16:40,821 12444 INFO root loading the config for nexus type
+2022-06-15 21:16:40,849 12444 INFO root credential valid
+2022-06-15 21:16:40,849 12444 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:16:40,860 12444 INFO root calling ok!
+2022-06-15 21:16:40,860 12444 INFO root collection with 8 repositories
+2022-06-15 21:16:40,876 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:16:40,877 12444 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:16:40,889 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:16:40,890 12444 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:16:40,902 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:16:40,902 12444 INFO root repo maven-central dont have any items
+2022-06-15 21:16:40,916 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:16:40,930 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:16:40,930 12444 INFO root repo maven-releases dont have any items
+2022-06-15 21:16:40,944 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:16:40,944 12444 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:16:40,959 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:16:40,959 12444 INFO root repo maven-public dont have any items
+2022-06-15 21:16:40,973 12444 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:16:40,974 12444 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:18:03,053 33344 INFO __main__ Logger init ... OK
+2022-06-15 21:18:03,054 33344 INFO root loading the config for nexus type
+2022-06-15 21:18:03,074 33344 INFO root credential valid
+2022-06-15 21:18:03,074 33344 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:18:03,084 33344 INFO root calling ok!
+2022-06-15 21:18:03,085 33344 INFO root collection with 8 repositories
+2022-06-15 21:18:03,098 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:18:03,100 33344 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:18:03,113 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:18:03,113 33344 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:18:03,124 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:18:03,125 33344 INFO root repo maven-central dont have any items
+2022-06-15 21:18:03,138 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:18:03,151 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:18:03,151 33344 INFO root repo maven-releases dont have any items
+2022-06-15 21:18:03,165 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:18:03,166 33344 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:18:03,181 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:18:03,181 33344 INFO root repo maven-public dont have any items
+2022-06-15 21:18:03,196 33344 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:18:03,197 33344 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:28:44,701 10068 INFO __main__ Logger init ... OK
+2022-06-15 21:28:44,702 10068 INFO root loading the config for nexus type
+2022-06-15 21:29:06,745 29448 INFO __main__ Logger init ... OK
+2022-06-15 21:29:06,746 29448 INFO root loading the config for nexus type
+2022-06-15 21:29:06,777 29448 INFO root credential valid
+2022-06-15 21:29:06,777 29448 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:29:06,796 29448 INFO root calling ok!
+2022-06-15 21:29:06,796 29448 INFO root collection with 8 repositories
+2022-06-15 21:29:06,815 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:29:06,815 29448 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:29:06,830 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:29:06,830 29448 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:29:06,845 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:29:06,846 29448 INFO root repo maven-central dont have any items
+2022-06-15 21:29:06,861 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:29:06,878 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:29:06,878 29448 INFO root repo maven-releases dont have any items
+2022-06-15 21:29:06,894 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:29:06,895 29448 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:29:06,912 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:29:06,912 29448 INFO root repo maven-public dont have any items
+2022-06-15 21:29:06,929 29448 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:29:06,930 29448 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:48,527 5888 INFO __main__ Logger init ... OK
+2022-06-15 21:30:48,527 5888 INFO root loading the config for nexus type
+2022-06-15 21:30:48,550 5888 INFO root credential valid
+2022-06-15 21:30:48,550 5888 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:30:48,561 5888 INFO root calling ok!
+2022-06-15 21:30:48,562 5888 INFO root collection with 8 repositories
+2022-06-15 21:30:48,578 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:30:48,578 5888 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:48,591 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:30:48,591 5888 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:30:48,606 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:30:48,606 5888 INFO root repo maven-central dont have any items
+2022-06-15 21:30:48,619 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:30:48,633 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:30:48,633 5888 INFO root repo maven-releases dont have any items
+2022-06-15 21:30:48,647 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:30:48,648 5888 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:48,661 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:30:48,661 5888 INFO root repo maven-public dont have any items
+2022-06-15 21:30:48,676 5888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:30:48,677 5888 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:59,436 21456 INFO __main__ Logger init ... OK
+2022-06-15 21:30:59,436 21456 INFO root loading the config for nexus type
+2022-06-15 21:30:59,457 21456 INFO root credential valid
+2022-06-15 21:30:59,457 21456 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:30:59,467 21456 INFO root calling ok!
+2022-06-15 21:30:59,467 21456 INFO root collection with 8 repositories
+2022-06-15 21:30:59,483 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:30:59,485 21456 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:59,499 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:30:59,499 21456 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:30:59,514 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:30:59,514 21456 INFO root repo maven-central dont have any items
+2022-06-15 21:30:59,530 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:30:59,549 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:30:59,549 21456 INFO root repo maven-releases dont have any items
+2022-06-15 21:30:59,564 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:30:59,565 21456 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:30:59,580 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:30:59,580 21456 INFO root repo maven-public dont have any items
+2022-06-15 21:30:59,594 21456 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:30:59,596 21456 WARNING root The resources mfi-ae.rwe.com.release.and.deployment/1.19.26 not in allowed content types
+2022-06-15 21:31:34,724 31904 INFO __main__ Logger init ... OK
+2022-06-15 21:31:34,725 31904 INFO root loading the config for nexus type
+2022-06-15 21:31:34,746 31904 INFO root credential valid
+2022-06-15 21:31:34,746 31904 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:31:34,757 31904 INFO root calling ok!
+2022-06-15 21:31:34,757 31904 INFO root collection with 8 repositories
+2022-06-15 21:31:34,777 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:31:34,778 31904 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:31:34,796 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:31:34,797 31904 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:31:34,820 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:31:34,820 31904 INFO root repo maven-central dont have any items
+2022-06-15 21:31:34,841 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:31:34,842 31904 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:31:34,863 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:31:34,863 31904 INFO root repo maven-releases dont have any items
+2022-06-15 21:31:34,882 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:31:34,907 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:31:34,907 31904 INFO root repo maven-public dont have any items
+2022-06-15 21:31:34,929 31904 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:31:34,929 31904 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:36:40,203 28596 INFO __main__ Logger init ... OK
+2022-06-15 21:36:40,204 28596 INFO root loading the config for nexus type
+2022-06-15 21:36:40,227 28596 INFO root credential valid
+2022-06-15 21:36:40,227 28596 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:36:40,239 28596 INFO root calling ok!
+2022-06-15 21:36:40,239 28596 INFO root collection with 8 repositories
+2022-06-15 21:36:40,259 28596 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:36:40,259 28596 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:36:49,513 22032 INFO __main__ Logger init ... OK
+2022-06-15 21:36:49,513 22032 INFO root loading the config for nexus type
+2022-06-15 21:36:49,534 22032 INFO root credential valid
+2022-06-15 21:36:49,534 22032 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:36:49,546 22032 INFO root calling ok!
+2022-06-15 21:36:49,546 22032 INFO root collection with 8 repositories
+2022-06-15 21:36:49,562 22032 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:36:49,563 22032 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:39:10,753 28604 INFO __main__ Logger init ... OK
+2022-06-15 21:39:10,753 28604 INFO root loading the config for nexus type
+2022-06-15 21:39:10,773 28604 INFO root credential valid
+2022-06-15 21:39:10,773 28604 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:39:10,785 28604 INFO root calling ok!
+2022-06-15 21:39:10,785 28604 INFO root collection with 8 repositories
+2022-06-15 21:39:10,803 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:39:10,803 28604 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:39:10,820 28604 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:39:10,836 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:39:10,836 28604 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:39:10,851 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:39:10,851 28604 INFO root repo maven-central dont have any items
+2022-06-15 21:39:10,871 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:39:10,872 28604 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:39:10,889 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:39:10,889 28604 INFO root repo maven-releases dont have any items
+2022-06-15 21:39:10,910 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:39:10,921 28604 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:39:10,941 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:39:10,941 28604 INFO root repo maven-public dont have any items
+2022-06-15 21:39:10,964 28604 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:39:10,964 28604 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:39:10,977 28604 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:41:30,279 33736 INFO __main__ Logger init ... OK
+2022-06-15 21:41:30,279 33736 INFO root loading the config for nexus type
+2022-06-15 21:41:30,299 33736 INFO root credential valid
+2022-06-15 21:41:30,299 33736 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:41:30,313 33736 INFO root calling ok!
+2022-06-15 21:41:30,313 33736 INFO root collection with 8 repositories
+2022-06-15 21:41:30,332 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:41:30,333 33736 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:41:30,343 33736 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:41:30,359 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:41:30,359 33736 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:41:30,376 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:41:30,376 33736 INFO root repo maven-central dont have any items
+2022-06-15 21:41:30,389 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:41:30,390 33736 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:41:30,407 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:41:30,407 33736 INFO root repo maven-releases dont have any items
+2022-06-15 21:41:30,420 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:41:30,431 33736 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:41:30,445 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:41:30,446 33736 INFO root repo maven-public dont have any items
+2022-06-15 21:41:30,459 33736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:41:30,460 33736 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:41:30,471 33736 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:42:10,227 19504 INFO __main__ Logger init ... OK
+2022-06-15 21:42:10,228 19504 INFO root loading the config for nexus type
+2022-06-15 21:42:10,251 19504 INFO root credential valid
+2022-06-15 21:42:10,251 19504 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:42:10,261 19504 INFO root calling ok!
+2022-06-15 21:42:10,261 19504 INFO root collection with 8 repositories
+2022-06-15 21:42:10,276 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:42:10,276 19504 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:42:10,291 19504 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:42:10,304 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:42:10,304 19504 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:42:10,318 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:42:10,318 19504 INFO root repo maven-central dont have any items
+2022-06-15 21:42:10,336 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:42:10,336 19504 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:42:10,352 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:42:10,352 19504 INFO root repo maven-releases dont have any items
+2022-06-15 21:42:10,371 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:42:10,382 19504 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:42:10,398 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:42:10,399 19504 INFO root repo maven-public dont have any items
+2022-06-15 21:42:10,416 19504 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:42:10,417 19504 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:42:10,429 19504 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:46:58,839 32472 INFO __main__ Logger init ... OK
+2022-06-15 21:46:58,840 32472 INFO root loading the config for nexus type
+2022-06-15 21:46:58,860 32472 INFO root credential valid
+2022-06-15 21:46:58,860 32472 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:46:58,871 32472 INFO root calling ok!
+2022-06-15 21:46:58,871 32472 INFO root collection with 8 repositories
+2022-06-15 21:46:58,886 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:46:58,886 32472 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:46:58,897 32472 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:46:58,911 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:46:58,911 32472 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:46:58,925 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:46:58,925 32472 INFO root repo maven-central dont have any items
+2022-06-15 21:46:58,939 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:46:58,939 32472 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:46:58,953 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:46:58,953 32472 INFO root repo maven-releases dont have any items
+2022-06-15 21:46:58,971 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:46:58,982 32472 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:46:58,996 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:46:58,997 32472 INFO root repo maven-public dont have any items
+2022-06-15 21:46:59,015 32472 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:46:59,016 32472 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:46:59,029 32472 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:06,760 27508 INFO __main__ Logger init ... OK
+2022-06-15 21:47:06,760 27508 INFO root loading the config for nexus type
+2022-06-15 21:47:06,780 27508 INFO root credential valid
+2022-06-15 21:47:06,780 27508 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:47:06,791 27508 INFO root calling ok!
+2022-06-15 21:47:06,791 27508 INFO root collection with 8 repositories
+2022-06-15 21:47:06,805 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:47:06,806 27508 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:06,818 27508 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:06,834 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:47:06,834 27508 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:47:06,848 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:47:06,848 27508 INFO root repo maven-central dont have any items
+2022-06-15 21:47:06,863 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:47:06,863 27508 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:06,882 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:47:06,882 27508 INFO root repo maven-releases dont have any items
+2022-06-15 21:47:06,897 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:47:06,908 27508 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:06,921 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:47:06,921 27508 INFO root repo maven-public dont have any items
+2022-06-15 21:47:06,937 27508 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:47:06,937 27508 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:06,952 27508 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:37,430 24260 INFO __main__ Logger init ... OK
+2022-06-15 21:47:37,430 24260 INFO root loading the config for nexus type
+2022-06-15 21:47:37,449 24260 INFO root credential valid
+2022-06-15 21:47:37,449 24260 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:47:37,459 24260 INFO root calling ok!
+2022-06-15 21:47:37,459 24260 INFO root collection with 8 repositories
+2022-06-15 21:47:37,474 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:47:37,475 24260 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:37,487 24260 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:37,501 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:47:37,501 24260 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:47:37,513 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:47:37,513 24260 INFO root repo maven-central dont have any items
+2022-06-15 21:47:37,527 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:47:37,528 24260 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:37,541 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:47:37,541 24260 INFO root repo maven-releases dont have any items
+2022-06-15 21:47:37,557 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:47:37,569 24260 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:47:37,583 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:47:37,583 24260 INFO root repo maven-public dont have any items
+2022-06-15 21:47:37,598 24260 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:47:37,600 24260 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:47:37,610 24260 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:48:11,198 2208 INFO __main__ Logger init ... OK
+2022-06-15 21:48:11,199 2208 INFO root loading the config for nexus type
+2022-06-15 21:48:11,221 2208 INFO root credential valid
+2022-06-15 21:48:11,221 2208 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:48:11,233 2208 INFO root calling ok!
+2022-06-15 21:48:11,233 2208 INFO root collection with 8 repositories
+2022-06-15 21:48:11,247 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:48:11,248 2208 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:48:11,260 2208 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:48:11,275 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:48:11,275 2208 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:48:11,288 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:48:11,289 2208 INFO root repo maven-central dont have any items
+2022-06-15 21:48:11,305 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:48:11,305 2208 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:48:11,322 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:48:11,323 2208 INFO root repo maven-releases dont have any items
+2022-06-15 21:48:11,340 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:48:11,354 2208 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:48:11,368 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:48:11,368 2208 INFO root repo maven-public dont have any items
+2022-06-15 21:48:11,386 2208 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:48:11,388 2208 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:48:11,401 2208 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:51:13,803 32676 INFO __main__ Logger init ... OK
+2022-06-15 21:51:13,803 32676 INFO root loading the config for nexus type
+2022-06-15 21:51:13,823 32676 INFO root credential valid
+2022-06-15 21:51:13,823 32676 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:51:13,833 32676 INFO root calling ok!
+2022-06-15 21:51:13,833 32676 INFO root collection with 8 repositories
+2022-06-15 21:51:13,849 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:51:13,849 32676 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:51:13,982 32676 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:51:13,999 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:51:14,000 32676 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:51:14,015 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:51:14,015 32676 INFO root repo maven-central dont have any items
+2022-06-15 21:51:14,029 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:51:14,030 32676 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:51:14,046 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:51:14,046 32676 INFO root repo maven-releases dont have any items
+2022-06-15 21:51:14,061 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:51:14,075 32676 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:51:14,091 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:51:14,091 32676 INFO root repo maven-public dont have any items
+2022-06-15 21:51:14,108 32676 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:51:14,108 32676 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:51:14,123 32676 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:54:40,462 19888 INFO __main__ Logger init ... OK
+2022-06-15 21:54:40,463 19888 INFO root loading the config for nexus type
+2022-06-15 21:54:40,484 19888 INFO root credential valid
+2022-06-15 21:54:40,484 19888 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:54:40,494 19888 INFO root calling ok!
+2022-06-15 21:54:40,494 19888 INFO root collection with 8 repositories
+2022-06-15 21:54:40,509 19888 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:54:40,509 19888 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:14,123 31244 INFO __main__ Logger init ... OK
+2022-06-15 21:57:14,124 31244 INFO root loading the config for nexus type
+2022-06-15 21:57:14,150 31244 INFO root credential valid
+2022-06-15 21:57:14,150 31244 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:57:14,166 31244 INFO root calling ok!
+2022-06-15 21:57:14,167 31244 INFO root collection with 8 repositories
+2022-06-15 21:57:14,183 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:57:14,183 31244 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:14,199 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:57:14,200 31244 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:57:14,217 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:57:14,217 31244 INFO root repo maven-central dont have any items
+2022-06-15 21:57:14,236 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:57:14,237 31244 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:14,252 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:57:14,253 31244 INFO root repo maven-releases dont have any items
+2022-06-15 21:57:14,269 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:57:14,293 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:57:14,294 31244 INFO root repo maven-public dont have any items
+2022-06-15 21:57:14,311 31244 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:57:14,312 31244 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:30,995 29612 INFO __main__ Logger init ... OK
+2022-06-15 21:57:30,995 29612 INFO root loading the config for nexus type
+2022-06-15 21:57:31,015 29612 INFO root credential valid
+2022-06-15 21:57:31,015 29612 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:57:31,026 29612 INFO root calling ok!
+2022-06-15 21:57:31,026 29612 INFO root collection with 8 repositories
+2022-06-15 21:57:31,040 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:57:31,040 29612 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:31,050 29612 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:57:31,065 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:57:31,065 29612 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:57:31,079 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:57:31,079 29612 INFO root repo maven-central dont have any items
+2022-06-15 21:57:31,093 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:57:31,093 29612 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:31,107 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:57:31,107 29612 INFO root repo maven-releases dont have any items
+2022-06-15 21:57:31,120 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:57:31,131 29612 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:57:31,144 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:57:31,144 29612 INFO root repo maven-public dont have any items
+2022-06-15 21:57:31,156 29612 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:57:31,156 29612 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:57:31,167 29612 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:58:56,928 31708 INFO __main__ Logger init ... OK
+2022-06-15 21:58:56,929 31708 INFO root loading the config for nexus type
+2022-06-15 21:58:56,947 31708 INFO root credential valid
+2022-06-15 21:58:56,947 31708 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 21:58:56,959 31708 INFO root calling ok!
+2022-06-15 21:58:56,959 31708 INFO root collection with 8 repositories
+2022-06-15 21:58:56,974 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 21:58:56,974 31708 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:58:56,985 31708 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:58:56,997 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 21:58:56,998 31708 INFO root repo maven-snapshots dont have any items
+2022-06-15 21:58:57,012 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 21:58:57,012 31708 INFO root repo maven-central dont have any items
+2022-06-15 21:58:57,025 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 21:58:57,025 31708 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:58:57,040 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 21:58:57,040 31708 INFO root repo maven-releases dont have any items
+2022-06-15 21:58:57,054 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 21:58:57,064 31708 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 21:58:57,079 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 21:58:57,079 31708 INFO root repo maven-public dont have any items
+2022-06-15 21:58:57,091 31708 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 21:58:57,091 31708 WARNING root The resources index.json not in allowed content types
+2022-06-15 21:58:57,101 31708 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 22:00:16,956 27304 INFO __main__ Logger init ... OK
+2022-06-15 22:00:16,956 27304 INFO root loading the config for nexus type
+2022-06-15 22:00:16,976 27304 INFO root credential valid
+2022-06-15 22:00:16,976 27304 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:00:16,987 27304 INFO root calling ok!
+2022-06-15 22:00:16,987 27304 INFO root collection with 8 repositories
+2022-06-15 22:00:17,002 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:00:17,002 27304 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:00:17,014 27304 ERROR root The url: http://localhost:8081/repository/nuget-group/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 22:00:17,029 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:00:17,029 27304 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:00:17,042 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:00:17,042 27304 INFO root repo maven-central dont have any items
+2022-06-15 22:00:17,057 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:00:17,058 27304 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:00:17,073 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:00:17,073 27304 INFO root repo maven-releases dont have any items
+2022-06-15 22:00:17,087 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:00:17,097 27304 ERROR root The url: http://localhost:8081/repository/nuget-hosted/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 22:00:17,108 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:00:17,109 27304 INFO root repo maven-public dont have any items
+2022-06-15 22:00:17,122 27304 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:00:17,122 27304 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:00:17,134 27304 ERROR root The url: http://localhost:8081/repository/Demo1/mfi-ae.rwe.com.release.and.deployment/1.19.26, can not download
+2022-06-15 22:01:07,445 6232 INFO __main__ Logger init ... OK
+2022-06-15 22:01:07,445 6232 INFO root loading the config for nexus type
+2022-06-15 22:01:07,466 6232 INFO root credential valid
+2022-06-15 22:01:07,466 6232 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:01:07,478 6232 INFO root calling ok!
+2022-06-15 22:01:07,478 6232 INFO root collection with 8 repositories
+2022-06-15 22:01:07,499 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:01:07,499 6232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:01:07,525 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:01:07,525 6232 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:01:07,540 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:01:07,540 6232 INFO root repo maven-central dont have any items
+2022-06-15 22:01:07,558 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:01:07,558 6232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:01:07,574 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:01:07,574 6232 INFO root repo maven-releases dont have any items
+2022-06-15 22:01:07,591 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:01:07,624 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:01:07,624 6232 INFO root repo maven-public dont have any items
+2022-06-15 22:01:07,643 6232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:01:07,644 6232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:01:54,823 34272 INFO __main__ Logger init ... OK
+2022-06-15 22:01:54,823 34272 INFO root loading the config for nexus type
+2022-06-15 22:01:54,843 34272 INFO root credential valid
+2022-06-15 22:01:54,843 34272 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:01:54,853 34272 INFO root calling ok!
+2022-06-15 22:01:54,853 34272 INFO root collection with 8 repositories
+2022-06-15 22:01:54,869 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:01:54,869 34272 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:01:54,902 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:01:54,902 34272 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:01:54,921 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:01:54,921 34272 INFO root repo maven-central dont have any items
+2022-06-15 22:01:54,939 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:01:54,939 34272 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:01:54,961 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:01:54,961 34272 INFO root repo maven-releases dont have any items
+2022-06-15 22:01:54,977 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:01:55,000 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:01:55,000 34272 INFO root repo maven-public dont have any items
+2022-06-15 22:01:55,017 34272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:01:55,017 34272 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:06:46,840 26948 INFO __main__ Logger init ... OK
+2022-06-15 22:06:46,841 26948 INFO root loading the config for nexus type
+2022-06-15 22:06:46,868 26948 INFO root credential valid
+2022-06-15 22:06:46,868 26948 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:06:46,882 26948 INFO root calling ok!
+2022-06-15 22:06:46,882 26948 INFO root collection with 8 repositories
+2022-06-15 22:06:46,897 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:06:46,898 26948 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:06:46,926 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:06:46,926 26948 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:06:46,942 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:06:46,942 26948 INFO root repo maven-central dont have any items
+2022-06-15 22:06:46,960 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:06:46,961 26948 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:06:46,979 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:06:46,979 26948 INFO root repo maven-releases dont have any items
+2022-06-15 22:06:46,993 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:06:47,019 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:06:47,019 26948 INFO root repo maven-public dont have any items
+2022-06-15 22:06:47,038 26948 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:06:47,039 26948 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:03,522 28796 INFO __main__ Logger init ... OK
+2022-06-15 22:08:03,523 28796 INFO root loading the config for nexus type
+2022-06-15 22:08:03,541 28796 INFO root credential valid
+2022-06-15 22:08:03,541 28796 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:08:03,552 28796 INFO root calling ok!
+2022-06-15 22:08:03,552 28796 INFO root collection with 8 repositories
+2022-06-15 22:08:03,566 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:08:03,567 28796 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:03,581 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:08:03,581 28796 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:08:03,594 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:08:03,594 28796 INFO root repo maven-central dont have any items
+2022-06-15 22:08:03,608 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:08:03,609 28796 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:03,624 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:08:03,624 28796 INFO root repo maven-releases dont have any items
+2022-06-15 22:08:03,640 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:08:03,655 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:08:03,655 28796 INFO root repo maven-public dont have any items
+2022-06-15 22:08:03,670 28796 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:08:03,670 28796 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:12,223 21808 INFO __main__ Logger init ... OK
+2022-06-15 22:08:12,224 21808 INFO root loading the config for nexus type
+2022-06-15 22:08:12,243 21808 INFO root credential valid
+2022-06-15 22:08:12,243 21808 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:08:12,254 21808 INFO root calling ok!
+2022-06-15 22:08:12,254 21808 INFO root collection with 8 repositories
+2022-06-15 22:08:12,268 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:08:12,269 21808 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:12,295 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:08:12,295 21808 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:08:12,309 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:08:12,309 21808 INFO root repo maven-central dont have any items
+2022-06-15 22:08:12,327 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:08:12,327 21808 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:12,341 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:08:12,341 21808 INFO root repo maven-releases dont have any items
+2022-06-15 22:08:12,357 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:08:12,386 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:08:12,386 21808 INFO root repo maven-public dont have any items
+2022-06-15 22:08:12,404 21808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:08:12,405 21808 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:30,703 24736 INFO __main__ Logger init ... OK
+2022-06-15 22:08:30,703 24736 INFO root loading the config for nexus type
+2022-06-15 22:08:30,723 24736 INFO root credential valid
+2022-06-15 22:08:30,723 24736 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:08:30,733 24736 INFO root calling ok!
+2022-06-15 22:08:30,733 24736 INFO root collection with 8 repositories
+2022-06-15 22:08:30,747 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:08:30,747 24736 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:30,760 24736 INFO root write request for nexus
+2022-06-15 22:08:30,773 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:08:30,773 24736 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:08:30,785 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:08:30,785 24736 INFO root repo maven-central dont have any items
+2022-06-15 22:08:30,800 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:08:30,800 24736 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:30,814 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:08:30,814 24736 INFO root repo maven-releases dont have any items
+2022-06-15 22:08:30,826 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:08:30,837 24736 INFO root write request for nexus
+2022-06-15 22:08:30,849 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:08:30,849 24736 INFO root repo maven-public dont have any items
+2022-06-15 22:08:30,865 24736 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:08:30,865 24736 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:08:30,879 24736 INFO root write request for nexus
+2022-06-15 22:10:16,999 28000 INFO __main__ Logger init ... OK
+2022-06-15 22:10:16,999 28000 INFO root loading the config for nexus type
+2022-06-15 22:10:17,018 28000 INFO root credential valid
+2022-06-15 22:10:17,018 28000 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:10:17,028 28000 INFO root calling ok!
+2022-06-15 22:10:17,028 28000 INFO root collection with 8 repositories
+2022-06-15 22:10:17,043 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:10:17,044 28000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:10:17,054 28000 INFO root write request for nexus
+2022-06-15 22:10:17,070 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:10:17,070 28000 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:10:17,084 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:10:17,084 28000 INFO root repo maven-central dont have any items
+2022-06-15 22:10:17,097 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:10:17,098 28000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:10:17,110 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:10:17,110 28000 INFO root repo maven-releases dont have any items
+2022-06-15 22:10:17,124 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:10:17,137 28000 INFO root write request for nexus
+2022-06-15 22:10:17,150 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:10:17,150 28000 INFO root repo maven-public dont have any items
+2022-06-15 22:10:17,165 28000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:10:17,165 28000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:10:17,179 28000 INFO root write request for nexus
+2022-06-15 22:12:49,104 25012 INFO __main__ Logger init ... OK
+2022-06-15 22:12:49,104 25012 INFO root loading the config for nexus type
+2022-06-15 22:12:49,123 25012 INFO root credential valid
+2022-06-15 22:12:49,123 25012 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:12:49,136 25012 INFO root calling ok!
+2022-06-15 22:12:49,136 25012 INFO root collection with 8 repositories
+2022-06-15 22:12:49,154 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:12:49,155 25012 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:49,170 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:12:49,170 25012 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:12:49,183 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:12:49,183 25012 INFO root repo maven-central dont have any items
+2022-06-15 22:12:49,200 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:12:49,200 25012 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:49,215 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:12:49,215 25012 INFO root repo maven-releases dont have any items
+2022-06-15 22:12:49,233 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:12:49,250 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:12:49,250 25012 INFO root repo maven-public dont have any items
+2022-06-15 22:12:49,268 25012 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:12:49,269 25012 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:59,086 23156 INFO __main__ Logger init ... OK
+2022-06-15 22:12:59,087 23156 INFO root loading the config for nexus type
+2022-06-15 22:12:59,106 23156 INFO root credential valid
+2022-06-15 22:12:59,106 23156 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:12:59,117 23156 INFO root calling ok!
+2022-06-15 22:12:59,117 23156 INFO root collection with 8 repositories
+2022-06-15 22:12:59,132 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:12:59,132 23156 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:59,145 23156 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:12:59,157 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:12:59,157 23156 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:12:59,170 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:12:59,170 23156 INFO root repo maven-central dont have any items
+2022-06-15 22:12:59,184 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:12:59,184 23156 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:59,196 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:12:59,196 23156 INFO root repo maven-releases dont have any items
+2022-06-15 22:12:59,210 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:12:59,221 23156 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:12:59,235 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:12:59,235 23156 INFO root repo maven-public dont have any items
+2022-06-15 22:12:59,250 23156 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:12:59,250 23156 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:12:59,262 23156 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:13:20,034 20000 INFO __main__ Logger init ... OK
+2022-06-15 22:13:20,035 20000 INFO root loading the config for nexus type
+2022-06-15 22:13:20,056 20000 INFO root credential valid
+2022-06-15 22:13:20,056 20000 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:13:20,067 20000 INFO root calling ok!
+2022-06-15 22:13:20,067 20000 INFO root collection with 8 repositories
+2022-06-15 22:13:20,085 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:13:20,086 20000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:20,100 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:13:20,100 20000 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:13:20,116 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:13:20,116 20000 INFO root repo maven-central dont have any items
+2022-06-15 22:13:20,131 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:13:20,132 20000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:20,146 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:13:20,146 20000 INFO root repo maven-releases dont have any items
+2022-06-15 22:13:20,161 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:13:20,176 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:13:20,177 20000 INFO root repo maven-public dont have any items
+2022-06-15 22:13:20,191 20000 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:13:20,192 20000 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:25,006 31856 INFO __main__ Logger init ... OK
+2022-06-15 22:13:25,006 31856 INFO root loading the config for nexus type
+2022-06-15 22:13:25,025 31856 INFO root credential valid
+2022-06-15 22:13:25,025 31856 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:13:25,036 31856 INFO root calling ok!
+2022-06-15 22:13:25,036 31856 INFO root collection with 8 repositories
+2022-06-15 22:13:25,050 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:13:25,051 31856 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:25,154 31856 INFO root write request for nexus
+2022-06-15 22:13:25,155 31856 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:13:25,168 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:13:25,168 31856 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:13:25,180 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:13:25,180 31856 INFO root repo maven-central dont have any items
+2022-06-15 22:13:25,193 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:13:25,194 31856 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:25,208 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:13:25,208 31856 INFO root repo maven-releases dont have any items
+2022-06-15 22:13:25,222 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:13:25,233 31856 INFO root write request for nexus
+2022-06-15 22:13:25,233 31856 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:13:25,246 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:13:25,246 31856 INFO root repo maven-public dont have any items
+2022-06-15 22:13:25,264 31856 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:13:25,265 31856 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:13:25,280 31856 INFO root write request for nexus
+2022-06-15 22:13:25,281 31856 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:14:49,824 25168 INFO __main__ Logger init ... OK
+2022-06-15 22:14:49,824 25168 INFO root loading the config for nexus type
+2022-06-15 22:14:49,844 25168 INFO root credential valid
+2022-06-15 22:14:49,844 25168 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:14:49,857 25168 INFO root calling ok!
+2022-06-15 22:14:49,858 25168 INFO root collection with 8 repositories
+2022-06-15 22:14:49,872 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:14:49,873 25168 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:14:49,885 25168 INFO root write request for nexus
+2022-06-15 22:14:49,899 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:14:49,899 25168 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:14:49,915 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:14:49,915 25168 INFO root repo maven-central dont have any items
+2022-06-15 22:14:49,929 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:14:49,930 25168 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:14:49,944 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:14:49,944 25168 INFO root repo maven-releases dont have any items
+2022-06-15 22:14:49,959 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:14:49,970 25168 INFO root write request for nexus
+2022-06-15 22:14:49,987 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:14:49,987 25168 INFO root repo maven-public dont have any items
+2022-06-15 22:14:50,004 25168 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:14:50,005 25168 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:14:50,020 25168 INFO root write request for nexus
+2022-06-15 22:15:50,229 35028 INFO __main__ Logger init ... OK
+2022-06-15 22:15:50,229 35028 INFO root loading the config for nexus type
+2022-06-15 22:15:50,248 35028 INFO root credential valid
+2022-06-15 22:15:50,248 35028 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:15:50,261 35028 INFO root calling ok!
+2022-06-15 22:15:50,261 35028 INFO root collection with 8 repositories
+2022-06-15 22:15:50,279 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:15:50,280 35028 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:15:50,292 35028 INFO root write request for nexus
+2022-06-15 22:15:50,293 35028 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:15:50,307 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:15:50,307 35028 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:15:50,325 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:15:50,325 35028 INFO root repo maven-central dont have any items
+2022-06-15 22:15:50,342 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:15:50,342 35028 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:15:50,356 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:15:50,356 35028 INFO root repo maven-releases dont have any items
+2022-06-15 22:15:50,372 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:15:50,387 35028 INFO root write request for nexus
+2022-06-15 22:15:50,388 35028 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:15:50,402 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:15:50,402 35028 INFO root repo maven-public dont have any items
+2022-06-15 22:15:50,417 35028 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:15:50,418 35028 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:15:50,604 35028 INFO root write request for nexus
+2022-06-15 22:15:50,605 35028 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:16:24,743 32960 INFO __main__ Logger init ... OK
+2022-06-15 22:16:24,744 32960 INFO root loading the config for nexus type
+2022-06-15 22:16:24,763 32960 INFO root credential valid
+2022-06-15 22:16:24,763 32960 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:16:24,774 32960 INFO root calling ok!
+2022-06-15 22:16:24,774 32960 INFO root collection with 8 repositories
+2022-06-15 22:16:24,812 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:16:24,812 32960 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:16:24,904 32960 INFO root write request for nexus
+2022-06-15 22:16:24,904 32960 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:16:25,000 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:16:25,000 32960 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:16:25,020 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:16:25,021 32960 INFO root repo maven-central dont have any items
+2022-06-15 22:16:25,039 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:16:25,040 32960 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:16:25,055 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:16:25,055 32960 INFO root repo maven-releases dont have any items
+2022-06-15 22:16:25,072 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:16:25,085 32960 INFO root write request for nexus
+2022-06-15 22:16:25,086 32960 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:16:25,105 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:16:25,105 32960 INFO root repo maven-public dont have any items
+2022-06-15 22:16:25,124 32960 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:16:25,125 32960 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:16:25,141 32960 INFO root write request for nexus
+2022-06-15 22:16:25,141 32960 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:20:44,411 26280 INFO __main__ Logger init ... OK
+2022-06-15 22:20:44,412 26280 INFO root loading the config for nexus type
+2022-06-15 22:20:44,434 26280 INFO root credential valid
+2022-06-15 22:20:44,434 26280 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:20:44,448 26280 INFO root calling ok!
+2022-06-15 22:20:44,448 26280 INFO root collection with 8 repositories
+2022-06-15 22:20:44,467 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:20:44,467 26280 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:20:44,485 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:20:44,485 26280 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:20:44,508 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:20:44,508 26280 INFO root repo maven-central dont have any items
+2022-06-15 22:20:44,529 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:20:44,530 26280 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:20:44,547 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:20:44,547 26280 INFO root repo maven-releases dont have any items
+2022-06-15 22:20:44,567 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:20:44,590 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:20:44,590 26280 INFO root repo maven-public dont have any items
+2022-06-15 22:20:44,617 26280 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:20:44,618 26280 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:49:13,392 33232 INFO __main__ Logger init ... OK
+2022-06-15 22:49:13,393 33232 INFO root loading the config for nexus type
+2022-06-15 22:49:13,415 33232 INFO root credential valid
+2022-06-15 22:49:13,416 33232 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:49:13,428 33232 INFO root calling ok!
+2022-06-15 22:49:13,428 33232 INFO root collection with 8 repositories
+2022-06-15 22:49:13,443 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:49:13,444 33232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:49:13,456 33232 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:49:13,468 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:49:13,468 33232 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:49:13,481 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:49:13,481 33232 INFO root repo maven-central dont have any items
+2022-06-15 22:49:13,496 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:49:13,496 33232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:49:13,508 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:49:13,508 33232 INFO root repo maven-releases dont have any items
+2022-06-15 22:49:13,520 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:49:13,535 33232 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:49:13,549 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:49:13,550 33232 INFO root repo maven-public dont have any items
+2022-06-15 22:49:13,567 33232 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:49:13,568 33232 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:49:13,583 33232 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:50:52,891 25468 INFO __main__ Logger init ... OK
+2022-06-15 22:50:52,891 25468 INFO root loading the config for nexus type
+2022-06-15 22:50:52,912 25468 INFO root credential valid
+2022-06-15 22:50:52,912 25468 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:50:52,922 25468 INFO root calling ok!
+2022-06-15 22:50:52,922 25468 INFO root collection with 8 repositories
+2022-06-15 22:50:52,935 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:50:52,936 25468 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:50:52,950 25468 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:50:52,964 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:50:52,964 25468 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:50:52,979 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:50:52,979 25468 INFO root repo maven-central dont have any items
+2022-06-15 22:50:52,995 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:50:52,995 25468 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:50:53,009 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:50:53,009 25468 INFO root repo maven-releases dont have any items
+2022-06-15 22:50:53,024 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:50:53,039 25468 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:50:53,052 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:50:53,053 25468 INFO root repo maven-public dont have any items
+2022-06-15 22:50:53,068 25468 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:50:53,069 25468 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:50:53,086 25468 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:52:40,296 4464 INFO __main__ Logger init ... OK
+2022-06-15 22:52:48,952 4464 INFO root loading the config for nexus type
+2022-06-15 22:52:48,972 4464 INFO root credential valid
+2022-06-15 22:52:48,972 4464 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:52:48,984 4464 INFO root calling ok!
+2022-06-15 22:52:48,984 4464 INFO root collection with 8 repositories
+2022-06-15 22:52:49,000 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:52:49,000 4464 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:52:49,014 4464 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:52:49,027 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:52:49,028 4464 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:52:49,050 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:52:49,051 4464 INFO root repo maven-central dont have any items
+2022-06-15 22:52:49,073 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:52:49,074 4464 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:52:49,093 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:52:49,094 4464 INFO root repo maven-releases dont have any items
+2022-06-15 22:52:49,135 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:52:49,215 4464 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:52:49,311 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:52:49,311 4464 INFO root repo maven-public dont have any items
+2022-06-15 22:52:49,354 4464 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:52:49,354 4464 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:52:49,374 4464 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:55:58,460 18928 INFO __main__ Logger init ... OK
+2022-06-15 22:56:11,328 18928 INFO root loading the config for nexus type
+2022-06-15 22:56:11,348 18928 INFO root credential valid
+2022-06-15 22:56:11,349 18928 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 22:56:11,360 18928 INFO root calling ok!
+2022-06-15 22:56:11,360 18928 INFO root collection with 8 repositories
+2022-06-15 22:56:11,375 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 22:56:11,376 18928 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:56:11,393 18928 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:56:11,412 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 22:56:11,413 18928 INFO root repo maven-snapshots dont have any items
+2022-06-15 22:56:11,458 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 22:56:11,458 18928 INFO root repo maven-central dont have any items
+2022-06-15 22:56:11,486 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 22:56:11,487 18928 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:56:11,499 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 22:56:11,499 18928 INFO root repo maven-releases dont have any items
+2022-06-15 22:56:11,512 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 22:56:11,525 18928 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 22:56:11,538 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 22:56:11,539 18928 INFO root repo maven-public dont have any items
+2022-06-15 22:56:11,555 18928 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 22:56:11,556 18928 WARNING root The resources index.json not in allowed content types
+2022-06-15 22:56:11,569 18928 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:01:44,903 33080 INFO __main__ Logger init ... OK
+2022-06-15 23:01:53,425 33080 INFO root loading the config for nexus type
+2022-06-15 23:01:53,447 33080 INFO root credential valid
+2022-06-15 23:01:53,447 33080 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 23:01:53,461 33080 INFO root calling ok!
+2022-06-15 23:01:53,462 33080 INFO root collection with 8 repositories
+2022-06-15 23:01:53,479 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 23:01:53,480 33080 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:01:53,493 33080 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:01:53,507 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 23:01:53,507 33080 INFO root repo maven-snapshots dont have any items
+2022-06-15 23:01:53,523 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 23:01:53,523 33080 INFO root repo maven-central dont have any items
+2022-06-15 23:01:53,536 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 23:01:53,536 33080 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:01:53,550 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 23:01:53,550 33080 INFO root repo maven-releases dont have any items
+2022-06-15 23:01:53,565 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 23:01:53,577 33080 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:01:53,591 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 23:01:53,591 33080 INFO root repo maven-public dont have any items
+2022-06-15 23:01:53,604 33080 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 23:01:53,605 33080 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:01:53,618 33080 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:02:17,202 35172 INFO __main__ Logger init ... OK
+2022-06-15 23:02:26,393 35172 INFO root loading the config for nexus type
+2022-06-15 23:02:26,414 35172 INFO root credential valid
+2022-06-15 23:02:26,414 35172 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 23:02:26,426 35172 INFO root calling ok!
+2022-06-15 23:02:26,426 35172 INFO root collection with 8 repositories
+2022-06-15 23:02:26,444 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 23:02:26,444 35172 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:02:26,457 35172 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:02:26,470 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 23:02:26,470 35172 INFO root repo maven-snapshots dont have any items
+2022-06-15 23:02:26,485 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 23:02:26,485 35172 INFO root repo maven-central dont have any items
+2022-06-15 23:02:26,499 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 23:02:26,499 35172 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:02:26,513 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 23:02:26,513 35172 INFO root repo maven-releases dont have any items
+2022-06-15 23:02:26,527 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 23:02:26,541 35172 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:02:26,555 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 23:02:26,555 35172 INFO root repo maven-public dont have any items
+2022-06-15 23:02:26,573 35172 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 23:02:26,574 35172 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:02:26,590 35172 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:05:46,009 27476 INFO __main__ Logger init ... OK
+2022-06-15 23:05:50,230 27476 INFO root loading the config for nexus type
+2022-06-15 23:05:50,257 27476 INFO root credential valid
+2022-06-15 23:05:50,257 27476 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-15 23:05:50,270 27476 INFO root calling ok!
+2022-06-15 23:05:50,270 27476 INFO root collection with 8 repositories
+2022-06-15 23:05:50,287 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-group 200 code
+2022-06-15 23:05:50,287 27476 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:05:50,303 27476 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-group\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:05:50,316 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-snapshots 200 code
+2022-06-15 23:05:50,317 27476 INFO root repo maven-snapshots dont have any items
+2022-06-15 23:05:50,330 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-central 200 code
+2022-06-15 23:05:50,330 27476 INFO root repo maven-central dont have any items
+2022-06-15 23:05:50,346 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget.org-proxy 200 code
+2022-06-15 23:05:50,347 27476 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:05:50,361 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-releases 200 code
+2022-06-15 23:05:50,361 27476 INFO root repo maven-releases dont have any items
+2022-06-15 23:05:50,375 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-15 23:05:50,390 27476 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-15 23:05:50,407 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=maven-public 200 code
+2022-06-15 23:05:50,407 27476 INFO root repo maven-public dont have any items
+2022-06-15 23:05:50,422 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-15 23:05:50,423 27476 WARNING root The resources index.json not in allowed content types
+2022-06-15 23:05:50,436 27476 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
