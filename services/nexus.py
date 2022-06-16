@@ -98,7 +98,7 @@ class SonarNexusType(object):
             if response.status_code == 200:
                 logging.info('calling to {0} 200 code'.format(url))
                 result = response.json()
-                continuationToken = result['continuationToken']
+                continuationToken = result.get('continuationToken',"")
                 if len(result['items']) == 0:
                     logging.info('repo {0} dont have any items'.format(repoName))
                 else:
