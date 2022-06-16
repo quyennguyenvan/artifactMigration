@@ -13,10 +13,7 @@
     "azure": {
         "orgURL": "https://dev.azure.com/QuyenNV9/",
         "project": "artifactMigration",
-        "feedsName": [
-            "nuget-hosted",
-            "maven"
-        ]
+        "feedName": "test-feed"
     },
     "downloadHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\download.txt",
     "downloadDict": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads",

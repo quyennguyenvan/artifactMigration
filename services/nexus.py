@@ -35,7 +35,7 @@ class SonarNexusType(object):
         self.batExecutionFile = config['artifactUpload']
         self.adoOrgURI = config['azure']['orgURL']
         self.adoProjectName = config['azure']['project']
-
+        self.feedName = config['azure']['feedName']
         logging.info("loading the config for nexus type")
     
     def tryAuth(self) -> bool:
@@ -129,8 +129,8 @@ class SonarNexusType(object):
                         print('downloaded : {0}'.format(filePath))
                         self.downloadable = self.downloadable + 1
                         self.reportServices.Reporting('{0} || {1} || {2}'.format(asset['format'],repoName,filePath) , self.tracingFile)
-                        executionLine = '''az artifacts universal publish --organization {0} --project="{1}" --scope project --feed nuget-hosted --name {2} --version {3} --description {4} --path {5}
-                        '''.format(self.adoOrgURI,self.adoProjectName,artifactPackageInfor[0],artifactPackageInfor[1],artifactPackageInfor[0], filePath)
+                        executionLine = '''az artifacts universal publish --organization {0} --project="{1}" --scope project --feed {2} --name "{3}" --version {4} --description "{5}" --path {6}
+                        '''.format(self.adoOrgURI, self.adoProjectName, self.feedName, artifactPackageInfor[0], artifactPackageInfor[1], artifactPackageInfor[0], filePath)
                         self.reportServices.Reporting(executionLine, self.batExecutionFile)
                         print(executionLine)
                         logging.info('downloaded : {0}'.format(file))
