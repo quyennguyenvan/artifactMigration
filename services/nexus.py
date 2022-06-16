@@ -90,7 +90,7 @@ class SonarNexusType(object):
     def getNexusAtifact(self, repository: NexusRepositorConfig):
         continuationToken:str = "bf0bcff339beef061b2f3e9257bff483"
         repoName = repository.name[0]
-        while( len(continuationToken) != 0) :
+        while( continuationToken != "") :
             postfixURL = 'service/rest/v1/assets?repository={0}&continuationToken={1}'.format(repoName,continuationToken)
             url = "{0}/{1}".format(self.nexusConfig.url,postfixURL)
             auth = (self.nexusConfig.username,self.nexusConfig.password)
