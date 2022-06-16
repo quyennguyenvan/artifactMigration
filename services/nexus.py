@@ -88,21 +88,23 @@ class SonarNexusType(object):
             return False
     
     def getNexusAtifact(self, repository: NexusRepositorConfig):
+        continuationToken:str = "bf0bcff339beef061b2f3e9257bff483"
         repoName = repository.name[0]
-        postfixURL = 'service/rest/v1/assets?repository={0}'.format(repoName)
-        url = "{0}/{1}".format(self.nexusConfig.url,postfixURL)
-        auth = (self.nexusConfig.username,self.nexusConfig.password)
-        response = requests.get(url, auth=auth)
-        if response.status_code == 200:
-            logging.info('calling to {0} 200 code'.format(url))
-            result = response.json()
-            if len(result['items']) == 0:
-                logging.info('repo {0} dont have any items'.format(repoName))
+        while( len(continuationToken) != 0) :
+            postfixURL = 'service/rest/v1/assets?repository={0}&continuationToken={1}'.format(repoName,continuationToken)
+            url = "{0}/{1}".format(self.nexusConfig.url,postfixURL)
+            auth = (self.nexusConfig.username,self.nexusConfig.password)
+            response = requests.get(url, auth=auth)
+            if response.status_code == 200:
+                logging.info('calling to {0} 200 code'.format(url))
+                result = response.json()
+                continuationToken = result['continuationToken']
+                if len(result['items']) == 0:
+                    logging.info('repo {0} dont have any items'.format(repoName))
+                else:
+                    self.downloadAtifact(result['items'])
             else:
-                self.downloadAtifact(result['items'])
-                
-        else:
-            logging.error('calling to {0} error with status code {1}'.format(url, response.status_code))
+                logging.error('calling to {0} error with status code {1}'.format(url, response.status_code))
     
     def downloadAtifact(self, assets:any):
         for asset in assets:
@@ -130,7 +132,7 @@ class SonarNexusType(object):
                         self.downloadable = self.downloadable + 1
                         self.reportServices.Reporting('{0} || {1} || {2}'.format(asset['format'],repoName,filePath) , self.tracingFile)
                         executionLine = '''az artifacts universal publish --organization {0} --project="{1}" --scope project --feed {2} --name "{3}" --version {4} --description "{5}" --path {6}
-                        '''.format(self.adoOrgURI, self.adoProjectName, self.feedName, artifactPackageInfor[0], artifactPackageInfor[1], artifactPackageInfor[0], filePath)
+                        '''.format(self.adoOrgURI, self.adoProjectName, self.feedName, str(artifactPackageInfor[0]).lower(), artifactPackageInfor[1], artifactPackageInfor[0], filePath)
                         self.reportServices.Reporting(executionLine, self.batExecutionFile)
                         print(executionLine)
                         logging.info('downloaded : {0}'.format(file))
