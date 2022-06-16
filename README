@@ -5,8 +5,10 @@ requirement:
 change config: configs.json
 
 Run this fist:
-pip3 install -r requirement.txt
+pip3 install -r .\requirement.txt
 
+next steps: 
+you have create the feed with name nuget-hosted
 
 execution: python3.8.exe .\main.py ( windows version)
 provide the PAT for console request

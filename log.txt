@@ -1486,3 +1486,185 @@
 2022-06-15 23:05:50,422 27476 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
 2022-06-15 23:05:50,423 27476 WARNING root The resources index.json not in allowed content types
 2022-06-15 23:05:50,436 27476 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 11:04:19,063 1140 INFO __main__ Logger init ... OK
+2022-06-16 11:05:50,205 1140 INFO root loading the config for nexus type
+2022-06-16 11:05:50,468 1140 INFO root credential valid
+2022-06-16 11:05:50,468 1140 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 11:05:50,612 1140 INFO root calling ok!
+2022-06-16 11:05:50,612 1140 INFO root collection with 8 repositories
+2022-06-16 11:05:50,781 1140 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-16 11:05:50,862 1140 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 11:06:41,974 20972 INFO __main__ Logger init ... OK
+2022-06-16 11:06:45,848 20972 INFO root loading the config for nexus type
+2022-06-16 11:06:45,888 20972 INFO root credential valid
+2022-06-16 11:06:45,888 20972 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 11:06:45,912 20972 INFO root calling ok!
+2022-06-16 11:06:45,912 20972 INFO root collection with 8 repositories
+2022-06-16 11:06:45,967 20972 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=nuget-hosted 200 code
+2022-06-16 11:06:46,002 20972 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\nuget-hosted\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 11:07:14,376 14328 INFO __main__ Logger init ... OK
+2022-06-16 11:07:22,607 14328 INFO root loading the config for nexus type
+2022-06-16 11:07:22,636 14328 INFO root credential valid
+2022-06-16 11:07:22,636 14328 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 11:07:22,655 14328 INFO root calling ok!
+2022-06-16 11:07:22,655 14328 INFO root collection with 8 repositories
+2022-06-16 11:17:23,704 35168 INFO __main__ Logger init ... OK
+2022-06-16 11:17:52,725 35168 INFO root loading the config for nexus type
+2022-06-16 11:17:52,766 35168 INFO root credential valid
+2022-06-16 11:17:52,766 35168 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 11:17:52,789 35168 INFO root calling ok!
+2022-06-16 11:17:52,789 35168 INFO root collection with 0 repositories
+2022-06-16 16:30:43,573 29692 INFO __main__ Logger init ... OK
+2022-06-16 16:31:19,126 29692 INFO root loading the config for nexus type
+2022-06-16 16:31:19,126 29692 INFO root loading ado services
+2022-06-16 16:31:19,456 29692 INFO root credential valid
+2022-06-16 16:31:19,456 29692 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:31:19,723 29692 INFO root calling ok!
+2022-06-16 16:31:19,723 29692 INFO root collection with 1 repositories white list
+2022-06-16 16:31:19,919 29692 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:31:19,920 29692 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:31:19,979 29692 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:34:46,068 32272 INFO __main__ Logger init ... OK
+2022-06-16 16:35:23,426 32272 INFO root loading the config for nexus type
+2022-06-16 16:35:23,426 32272 INFO root loading ado services
+2022-06-16 16:35:23,466 32272 INFO root credential valid
+2022-06-16 16:35:23,466 32272 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:35:23,502 32272 INFO root calling ok!
+2022-06-16 16:35:23,502 32272 INFO root collection with 1 repositories white list
+2022-06-16 16:35:23,567 32272 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:35:23,567 32272 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:35:23,591 32272 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:35:36,964 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-group\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:35:37,091 32272 INFO root exec:                         
+
+2022-06-16 16:35:45,504 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-hosted\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:35:45,603 32272 INFO root exec:                         
+
+2022-06-16 16:35:53,112 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:35:53,205 32272 INFO root exec:                         
+
+2022-06-16 16:36:00,510 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-hosted\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:36:00,610 32272 INFO root exec:                         
+
+2022-06-16 16:36:07,133 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\nuget-hosted\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:36:07,227 32272 INFO root exec:                         
+
+2022-06-16 16:36:14,603 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:36:14,696 32272 INFO root exec:                         
+
+2022-06-16 16:36:21,360 32272 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:36:21,453 32272 INFO root exec:                         
+
+2022-06-16 16:37:12,384 33644 INFO __main__ Logger init ... OK
+2022-06-16 16:37:17,872 33644 INFO root loading the config for nexus type
+2022-06-16 16:37:17,872 33644 INFO root loading ado services
+2022-06-16 16:37:17,906 33644 INFO root credential valid
+2022-06-16 16:37:17,906 33644 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:37:17,926 33644 INFO root calling ok!
+2022-06-16 16:37:17,926 33644 INFO root collection with 1 repositories white list
+2022-06-16 16:37:17,964 33644 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:37:17,965 33644 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:37:17,988 33644 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:37:24,814 33644 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:37:24,899 33644 INFO root exec:                         
+
+2022-06-16 16:38:09,306 24340 INFO __main__ Logger init ... OK
+2022-06-16 16:38:19,705 24340 INFO root loading the config for nexus type
+2022-06-16 16:38:19,705 24340 INFO root loading ado services
+2022-06-16 16:38:19,740 24340 INFO root credential valid
+2022-06-16 16:38:19,740 24340 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:38:19,764 24340 INFO root calling ok!
+2022-06-16 16:38:19,765 24340 INFO root collection with 1 repositories white list
+2022-06-16 16:38:19,810 24340 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:38:19,811 24340 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:38:19,834 24340 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:38:26,543 24340 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:38:26,648 24340 INFO root exec:                         
+
+2022-06-16 16:39:19,506 37808 INFO __main__ Logger init ... OK
+2022-06-16 16:39:43,614 37808 INFO root loading the config for nexus type
+2022-06-16 16:39:43,614 37808 INFO root loading ado services
+2022-06-16 16:39:43,648 37808 INFO root credential valid
+2022-06-16 16:39:43,648 37808 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:39:43,669 37808 INFO root calling ok!
+2022-06-16 16:39:43,669 37808 INFO root collection with 1 repositories white list
+2022-06-16 16:39:43,700 37808 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:39:43,701 37808 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:39:43,722 37808 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:39:50,655 37808 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:39:50,738 37808 INFO root exec:                         
+
+2022-06-16 16:41:44,198 30404 INFO __main__ Logger init ... OK
+2022-06-16 16:41:55,301 30404 INFO root loading the config for nexus type
+2022-06-16 16:41:55,301 30404 INFO root loading ado services
+2022-06-16 16:41:55,340 30404 INFO root credential valid
+2022-06-16 16:41:55,340 30404 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:41:55,366 30404 INFO root calling ok!
+2022-06-16 16:41:55,366 30404 INFO root collection with 1 repositories white list
+2022-06-16 16:41:55,401 30404 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:41:55,402 30404 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:41:55,424 30404 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:42:07,931 26408 INFO __main__ Logger init ... OK
+2022-06-16 16:42:10,614 26408 INFO root loading the config for nexus type
+2022-06-16 16:42:10,614 26408 INFO root loading ado services
+2022-06-16 16:42:10,644 26408 INFO root credential valid
+2022-06-16 16:42:10,645 26408 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:42:10,666 26408 INFO root calling ok!
+2022-06-16 16:42:10,667 26408 INFO root collection with 1 repositories white list
+2022-06-16 16:42:10,710 26408 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:42:10,710 26408 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:42:10,730 26408 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:42:17,630 26408 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:42:24,684 26408 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:42:31,762 26408 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:46:43,322 37632 INFO __main__ Logger init ... OK
+2022-06-16 16:46:45,388 37632 INFO root loading the config for nexus type
+2022-06-16 16:46:45,388 37632 INFO root loading ado services
+2022-06-16 16:46:45,428 37632 INFO root credential valid
+2022-06-16 16:46:45,429 37632 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:46:45,456 37632 INFO root calling ok!
+2022-06-16 16:46:45,456 37632 INFO root collection with 1 repositories white list
+2022-06-16 16:46:45,533 37632 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:46:45,534 37632 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:46:45,565 37632 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:46:54,008 37632 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:47:01,353 37632 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:47:08,551 37632 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:47:15,360 37632 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:47:54,646 34648 INFO __main__ Logger init ... OK
+2022-06-16 16:47:58,165 34648 INFO root loading the config for nexus type
+2022-06-16 16:47:58,165 34648 INFO root loading ado services
+2022-06-16 16:47:58,195 34648 INFO root credential valid
+2022-06-16 16:47:58,195 34648 INFO root calling to services http://localhost:8081/service/rest/v1/repositories
+2022-06-16 16:47:58,214 34648 INFO root calling ok!
+2022-06-16 16:47:58,214 34648 INFO root collection with 1 repositories white list
+2022-06-16 16:47:58,245 34648 INFO root calling to http://localhost:8081/service/rest/v1/assets?repository=Demo1 200 code
+2022-06-16 16:47:58,246 34648 WARNING root The resources index.json not in allowed content types
+2022-06-16 16:47:58,267 34648 INFO root downloaded : <_io.BufferedWriter name='D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads\\Demo1\\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg'>
+2022-06-16 16:48:05,395 34648 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:48:12,205 34648 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:48:18,324 34648 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:48:25,267 34648 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+
+2022-06-16 16:48:32,196 34648 INFO root exec: az artifacts universal publish --organization https://dev.azure.com/QuyenNV9/ --project="artifactMigration" --scope project --feed nuget-hosted --name mfi-ae.rwe.com.release.and.deployment --version 1.19.26 --description mfi-ae.rwe.com.release.and.deployment --path D:\Projects\PIDs\RWE\SonarNexusToADOAtifact\downloads\Demo1\mfi-ae.rwe.com.release.and.deployment.1.19.26.nupkg
+

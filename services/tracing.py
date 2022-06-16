@@ -1,6 +1,3 @@
-import json
-import logging
-
 class Report(object):
 
     def __init__(self, config):

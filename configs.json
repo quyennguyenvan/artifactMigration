@@ -2,16 +2,24 @@
     "nexus": {
         "url": "http://localhost:8081",
         "username": "admin",
-        "password": "2uyen@xxxxgit",
+        "password": "2uyen@441991",
         "notAllowedContentTypes": [
             "index.json"
+        ],
+        "allowedRepos": [
+            "Demo1"
         ]
     },
     "azure": {
         "orgURL": "https://dev.azure.com/QuyenNV9/",
-        "project": "artifactMigration"
+        "project": "artifactMigration",
+        "feedsName": [
+            "nuget-hosted",
+            "maven"
+        ]
     },
     "downloadHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\download.txt",
     "downloadDict": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads",
-    "artifactUpload": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\execArtifactUpload.bat"
+    "artifactUpload": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\execArtifactUpload.bat",
+    "reflink": "https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows"
 }

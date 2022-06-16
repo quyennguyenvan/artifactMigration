@@ -1,9 +1,5 @@
-import json
 import logging
-from urllib import response
 import requests
-from re import L
-from xmlrpc.client import boolean
 import base64
 import os
 
@@ -30,6 +26,7 @@ class SonarNexusType(object):
         self.nexusConfig.url = config['nexus']['url']
         self.nexusConfig.username = config['nexus']['username']
         self.nexusConfig.password = config['nexus']['password']
+        self.allowedRepos = config['nexus']['allowedRepos']
         self.downloadDict = config['downloadDict']
         self.tracingFile = config['downloadHistory']
         self.notAllowedContentTypes = config['nexus']['notAllowedContentTypes']
@@ -41,7 +38,7 @@ class SonarNexusType(object):
 
         logging.info("loading the config for nexus type")
     
-    def tryAuth(self) -> boolean:
+    def tryAuth(self) -> bool:
         data = {
             'username': base64.b64encode(self.nexusConfig.username.encode('ascii')),
             'password': base64.b64encode(self.nexusConfig.password.encode('ascii')),
@@ -57,7 +54,7 @@ class SonarNexusType(object):
         logging.info('credential valid')
         return True
 
-    def getRepositories(self) -> boolean:
+    def getRepositories(self) -> bool:
         postfixURL = "service/rest/v1/repositories"
         url = "{0}/{1}".format(self.nexusConfig.url,postfixURL)
         auth = (self.nexusConfig.username,self.nexusConfig.password)
@@ -72,14 +69,15 @@ class SonarNexusType(object):
       
         repositories = []
         for item in response.json():
-            repositories.append(NexusRepositorConfig(
-            item.get('name','n/a'),
-            item.get('format','n/a'),
-            item.get('type','n/a'),
-            item.get('url','n/a')))
+            if item.get('name','n/a') in self.allowedRepos:
+                repositories.append(NexusRepositorConfig(
+                item.get('name','n/a'),
+                item.get('format','n/a'),
+                item.get('type','n/a'),
+                item.get('url','n/a')))
 
-        logging.info('collection with {0} repositories'.format(len(repositories)))
-        print('found: {0} repositories'.format(len(repositories))) 
+        logging.info('collection with {0} repositories white list'.format(len(repositories)))
+        print('found: {0} repositories white list'.format(len(repositories))) 
 
         if len(repositories):
             for repo in repositories:
@@ -114,6 +112,9 @@ class SonarNexusType(object):
                 subDict = os.path.join(self.downloadDict,repoName)
                 try: 
                     os.mkdir(subDict) 
+                except Exception as error: 
+                    print(error)  
+                try:
                     url = asset['downloadUrl'] 
                     extFile = "nupkg"
                     if asset['format'] == "nuget":
