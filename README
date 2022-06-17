@@ -12,3 +12,8 @@ you have create the feed with name nuget-hosted
 
 execution: python3.8.exe .\main.py ( windows version)
 provide the PAT for console request
+
+
+*Release note: [17/06/2022]
+[-] Added pagination download for nexus system
+[-] Added multiprocess (basic) for upload and publish Azure DevOps Artifact  - this depends on your CPU 
