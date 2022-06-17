@@ -18,7 +18,7 @@ class ADOArtifacts(object):
         commands = file.readlines()
         print('Running for {0} commands'.format(len(commands)))
         count = 0
-        maxCPUallowed = 8
+        maxCPUallowed = 24
         cpuCores = self.config['cpuCores']
         if cpuCores > maxCPUallowed:
             cpuCores = maxCPUallowed
@@ -40,6 +40,9 @@ class ADOArtifacts(object):
                         for i in poolWorks:
                             i.join()
                         poolWorks = []
+                    if(len(commands) <= cpuCores):
+                        for i in poolWorks:
+                            i.join()
             except Exception as er:
                 logging.error(er)
                 break
