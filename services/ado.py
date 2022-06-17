@@ -34,6 +34,7 @@ class ADOArtifacts(object):
             except Exception as er:
                 logging.error(er)
                 print(er)
+                break
         print('final publishing to azure devops artifact with {0} packages'.format(count))
 
     def smap(self,f):

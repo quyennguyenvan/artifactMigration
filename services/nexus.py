@@ -3,6 +3,7 @@ import logging
 import requests
 import base64
 import os
+import time
 
 logger = logging.getLogger(__name__)
 
@@ -81,9 +82,12 @@ class SonarNexusType(object):
         print('found: {0} repositories white list'.format(len(repositories))) 
 
         if len(repositories):
+            startProcess = time.time()
             for repo in repositories:
                 self.getNexusAtifact(repo)
             print('downloadable with: {0}'.format(self.downloadable))
+            endProcess = time.time()
+            print('Nexus artifacts download with total : {0} seconds'.format(endProcess - startProcess))
             return True
         else:
             return False
