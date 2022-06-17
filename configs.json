@@ -2,7 +2,7 @@
     "nexus": {
         "url": "http://localhost:8081",
         "username": "admin",
-        "password": "xx@xx",
+        "password": "xxx@xxxx",
         "notAllowedContentTypes": [
             "index.json"
         ],

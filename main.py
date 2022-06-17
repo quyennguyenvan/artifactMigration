@@ -29,5 +29,5 @@ if __name__ == "__main__":
         else:
             print('crash app. quit')       
     else:
-        logging.info('crash app. quit')
+        logging.info('crash app. quit - please valid information like account credentials or other config')
         print('terminate with status NOT OK')
