@@ -2,7 +2,7 @@
     "nexus": {
         "url": "http://localhost:8081",
         "username": "admin",
-        "password": "admin",
+        "password": "xxx1",
         "notAllowedContentTypes": [
             "index.json"
         ],
@@ -15,9 +15,10 @@
         "project": "artifactMigration",
         "feedName": "test-feed"
     },
-    "cpuCores": 8,
+    "cpuCores": 4,
     "downloadHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\download.txt",
     "downloadDict": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\downloads",
     "artifactUpload": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\execArtifactUpload.bat",
-    "reflink": "https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows"
+    "reflink": "https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows",
+    "publishHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\publishhistories.txt"
 }

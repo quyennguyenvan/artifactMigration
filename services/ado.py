@@ -1,3 +1,4 @@
+import cmd
 from multiprocessing import Pool, Process
 import os
 import logging
@@ -15,33 +16,39 @@ class ADOArtifacts(object):
         print('Starting publish artifacts')
         file = open(self.config['artifactUpload'],'r')
         commands = file.readlines()
+        print('Running for {0} commands'.format(len(commands)))
         count = 0
-        cpuCores = self.config['cpuCores'] - 1
-        while (count < len(commands)):
+        maxCPUallowed = 8
+        cpuCores = self.config['cpuCores']
+        if cpuCores > maxCPUallowed:
+            cpuCores = maxCPUallowed
+        poolWorks = []
+        while (len(commands) != 0):
             try:
-                poolWorks = []
-                for i in range(0,cpuCores):
-                    if str(commands[count+i]) is not None or str(commands[count+i]) != "":
-                        poolWorks.append((Process(target=self.runPublishArtifacts,  args=(commands[count+i],))))
-                for i in poolWorks:
-                    i.start()
-                    logging.info('start process Name: {0}'.format(i.name))
-                for i in poolWorks:
-                    i.join()
-                    logging.info('join process Name: {0}'.format(i.name))
+                index = 0
+                if str(commands[index]) is not None or str(commands[index]) != "":
+                    print('Pending for: {} commands'.format(len(commands)))
+                    work = (Process(target=self.runPublishArtifacts,  args=(count,commands[index],)))
+                    work.start()
+                    logging.info('start process Name: {0}'.format(work.name))
 
-                count = count + cpuCores
+                    poolWorks.append(work)
+                    commands.pop(index)
+                    count = count + 1
+
+                    if (len(poolWorks) == cpuCores):
+                        for i in poolWorks:
+                            i.join()
+                        poolWorks = []
             except Exception as er:
                 logging.error(er)
-                print(er)
                 break
+
+        
         print('final publishing to azure devops artifact with {0} packages'.format(count))
 
-    def smap(self,f):
-        return f()
-
-    def runPublishArtifacts(self, cmd:str):
-        print('[*] - running command publish for: {0}'.format(cmd))
+    def runPublishArtifacts(self,count, cmd:str):
+        print('[{0}] - running command publish for: {1}'.format(count,cmd))
         os.system("{0}".format(cmd))
+        self.reportServices.Reporting(str(cmd), self.config['publishHistory'])
         logging.info('exec: {0}'.format(cmd))   
-
