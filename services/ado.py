@@ -1,4 +1,4 @@
-import cmd
+import time
 from multiprocessing import Pool, Process
 import os
 import logging
@@ -23,6 +23,7 @@ class ADOArtifacts(object):
         if cpuCores > maxCPUallowed:
             cpuCores = maxCPUallowed
         poolWorks = []
+        start = time.time()
         while (len(commands) != 0):
             try:
                 index = 0
@@ -46,7 +47,9 @@ class ADOArtifacts(object):
             except Exception as er:
                 logging.error(er)
                 break
+        stop = time.time()
 
+        logging.info('Total time for publish artifacts: {0} seconds'.format(stop - start))
         
         print('final publishing to azure devops artifact with {0} packages'.format(count))
 
