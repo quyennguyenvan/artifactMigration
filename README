@@ -13,6 +13,9 @@ you have create the feed with name nuget-hosted
 execution: python3.8.exe .\main.py ( windows version)
 provide the PAT for console request
 
+*Release note: [19/06/2022]
+[-] Fixed handler for commands (ado services) with type None or Empty (loop infi)
+[-] Fixed for handler poolWorks (pool process not joined)
 
 *Release note: [17/06/2022] - 2
 [-] Added handler for multiprocess

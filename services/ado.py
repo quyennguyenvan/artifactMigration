@@ -40,13 +40,17 @@ class ADOArtifacts(object):
                     if (len(poolWorks) == cpuCores):
                         for i in poolWorks:
                             i.join()
-                        poolWorks = []
-                    if(len(commands) <= cpuCores):
-                        for i in poolWorks:
-                            i.join()
+                        poolWorks = []                        
+                else:
+                    commands.pop(index)
+                    
             except Exception as er:
                 logging.error(er)
                 break
+
+        for i in poolWorks:
+            i.join()
+
         stop = time.time()
 
         logging.info('Total time for publish artifacts: {0} seconds'.format(stop - start))
