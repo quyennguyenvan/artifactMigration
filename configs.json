@@ -2,9 +2,10 @@
     "nexus": {
         "url": "http://localhost:8081",
         "username": "admin",
-        "password": "xxx@xxxx",
+        "password": "xxxx",
         "notAllowedContentTypes": [
-            "index.json"
+            "index.json",
+            "doc.xml"
         ],
         "allowedRepos": [
             "Demo1"
@@ -13,7 +14,7 @@
     "azure": {
         "orgURL": "https://dev.azure.com/QuyenNV9/",
         "project": "artifactMigration",
-        "feedName": "test-feed"
+        "feedName": "nuget-release-hosted"
     },
     "cpuCores": 4,
     "downloadHistory": "D:\\Projects\\PIDs\\RWE\\SonarNexusToADOAtifact\\download.txt",

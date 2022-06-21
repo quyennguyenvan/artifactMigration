@@ -1,5 +1,4 @@
 from dependency_injector import containers, providers
-from dependency_injector.wiring import Provide
 
 
 from services.nexus import SonarNexusType

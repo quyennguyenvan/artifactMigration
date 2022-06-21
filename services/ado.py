@@ -18,7 +18,7 @@ class ADOArtifacts(object):
         commands = file.readlines()
         print('Running for {0} commands'.format(len(commands)))
         count = 0
-        maxCPUallowed = 24
+        maxCPUallowed = 24 #you can change this
         cpuCores = self.config['cpuCores']
         if cpuCores > maxCPUallowed:
             cpuCores = maxCPUallowed

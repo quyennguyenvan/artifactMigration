@@ -1,4 +1,3 @@
-from distutils.log import log
 import logging
 import requests
 import base64

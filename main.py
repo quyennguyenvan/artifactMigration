@@ -1,7 +1,6 @@
 import logging
 import json
 import os
-import subprocess
 
 from container import Configs,SonarTypeNexusServices,ADOArtifactsServices
 
